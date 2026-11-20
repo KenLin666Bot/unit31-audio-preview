@@ -1,295 +1,263 @@
-# Unit 31 各官能团的典型反应（Typical reactions of selected functional groups）
-## 双语课堂预习讲义与师生对话逐字稿
+# Unit 31 各官能团的典型反应（Typical Reactions of Selected Functional Groups）
+## 双语课堂预习讲义与主讲逐字稿
 
-> **适用教材**：HKDSE 精工出版社（Jing Kung）L.H.M. Chung《Mastering Chemistry》Book 3B · Topic 8
-> **配套音频总时长**：`36:33`（共 6 讲分节微课 + 1 份完整连听合集 MP3）
+> **适用教材**：HKDSE 精工出版社（Jing Kung Educational Press）L.H.M. Chung《Mastering Chemistry》Book 3B · Topic 8 · Unit 31
+> **授课风格**：陈老师单人沉稳主讲（中英双语 · 化学专有名词与考纲采分句全英文对标 · 盲听与看屏双友好）
+> **配套音频总时长**：`23:21`（共 6 讲分节微课 + 1 份完整连听合集 MP3）
 > **音频文件目录**：`./audio/`
 
 ### 目录与音频时间轴速览
 
 | 讲次 | 课本小节 | 主题 | 分节音频时长 | 完整合集起点 | 对应音频文件 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **第 1 讲** | `31.1 – 31.3` | 烷烃取代回顾与不对称烯烃加成（马氏规则） | `06:43` | `00:00` | `audio/01_31.1-31.3_烷烃回顾与马氏规则加成.mp3` |
-| **第 2 讲** | `31.4` | 卤代烷的取代反应：碱性水解与卤素离子检验 | `05:53` | `06:44` | `audio/02_31.4_卤代烷碱性水解与卤素离子检验.mp3` |
-| **第 3 讲** | `31.5 (上)` | 醇的反应（上）：与钠反应、四大卤代试剂与脱水成烯 | `06:30` | `12:39` | `audio/03_31.5A_醇与钠反应_卤代与脱水成烯.mp3` |
-| **第 4 讲** | `31.5 (下)` | 醇的反应（下）：伯、仲、叔醇的可控氧化与回流/蒸馏装置 | `05:44` | `19:10` | `audio/04_31.5B_伯仲叔醇的可控氧化与回流蒸馏.mp3` |
-| **第 5 讲** | `31.6 – 31.7` | 醛、酮的鉴别还原与羧酸的四大核心反应 | `05:46` | `24:56` | `audio/05_31.6-31.7_醛酮还原与羧酸四大反应.mp3` |
-| **第 6 讲** | `31.8 – 31.9` | 酯与未取代酰胺的水解反应（酸碱介质产物铁律与全局贯通） | `05:50` | `30:43` | `audio/06_31.8-31.9_酯与未取代酰胺的酸碱水解.mp3` |
+| **第 1 讲** | `31.1 – 31.3` | 烃类反应全景回顾与不对称烯烃马氏规则（Markovnikov's Rule） | `03:39` | `00:00` | `audio/01_31.1-31.3_烃类反应回顾与马氏规则加成.mp3` |
+| **第 2 讲** | `31.4` | 卤代烷（Haloalkanes）的碱性水解、验卤三步铁律与键焓速率规律 | `03:46` | `03:41` | `audio/02_31.4_卤代烷碱性水解与卤素离子检验.mp3` |
+| **第 3 讲** | `31.5 (上)` | 醇（Alcohols）与钠反应、氯代双雄 PCl₅ / SOCl₂ 分工与催化脱水陷阱 | `03:48` | `07:28` | `audio/03_31.5A_醇与钠反应_卤代试剂与脱水成烯.mp3` |
+| **第 4 讲** | `31.5 (下)` | 伯、仲、叔醇的可控氧化、回流 vs 蒸馏装置与 [O] 配平特训 | `03:47` | `11:18` | `audio/04_31.5B_伯仲叔醇可控氧化与回流蒸馏装置.mp3` |
+| **第 5 讲** | `31.6 – 31.7` | 醛酮鉴别、NaBH₄ vs LiAlH₄ 选择性还原与羧酸四大反应 | `04:00` | `15:06` | `audio/05_31.6-31.7_醛酮选择性还原与羧酸四大反应.mp3` |
+| **第 6 讲** | `31.8 – 31.9` | 酯与未取代酰胺的酸碱水解铁律及全章官能团定性鉴别总表 | `04:14` | `19:07` | `audio/06_31.8-31.9_酯与酰胺酸碱水解及鉴别总表.mp3` |
 
 ---
 
-## 第 1 讲（31.1 – 31.3）：烷烃取代回顾与不对称烯烃加成（马氏规则）
-*Revisiting Alkanes & Addition of HX to Unsymmetrical Alkenes (Markovnikov's Rule)*  
-**分节音频**：`audio/01_31.1-31.3_烷烃回顾与马氏规则加成.mp3`（时长 `06:43`）
+## 第 1 讲（31.1 – 31.3）：烃类反应全景回顾与不对称烯烃马氏规则（Markovnikov's Rule）
+*Review of Alkanes & Alkenes and Markovnikov's Rule for Unsymmetrical Alkenes*  
+**分节音频**：`audio/01_31.1-31.3_烃类反应回顾与马氏规则加成.mp3`（时长 `03:39`）
 
-- **预习目标**：串起 Topic 7 的烷烃取代与对称加成，掌握不对称烯烃（unsymmetrical alkene）加卤化氢时的马氏规则（Markovnikov's rule），精准避开“数错氢原子”与“戊-2-烯无偏向”两大考场陷阱。
-- **本讲核心双语词汇**：**free radical substitution**（自由基取代反应） ｜ **unsymmetrical alkene**（不对称烯烃） ｜ **Markovnikov's rule**（马氏规则（氢多加氢）） ｜ **major product / minor product**（主产物 / 副产物） ｜ **position isomers**（位置异构体）
+- **预习目标**：巩固烷烃 UV light 自由基取代红线与对称烯烃催化加氢、卤化反应，背准 Markovnikov's rule 原版英文采分句，彻底防住 (CH₃)₂C=CH₂“假多氢”与 pent-2-ene“1H : 1H 平手双产物”两大考场陷阱。
+- **本讲核心双语词汇**：**free radical substitution**（自由基取代反应 (UV light)） ｜ **catalytic hydrogenation**（催化加氢 (Pt / Pd / Ni)） ｜ **halogenation**（卤化加成反应） ｜ **unsymmetrical alkene**（不对称烯烃） ｜ **Markovnikov's rule**（马氏规则（氢多加氢）） ｜ **major / minor product**（主产物 / 副产物）
 
-### 师生互动讲授逐字稿
+### 课堂主讲逐字稿
 
-#### 📌 【板书 1 · 温故知新 (31.1–31.2)】烷烃自由基取代 vs 对称烯烃加成反应（`00:00` – `01:55`）
+#### 📌 【板书 1 · 烃类回顾 (31.1–31.2)】Alkanes 自由基取代红线与对称 Alkenes 加成反应全景回顾（`00:00` – `01:13`）
 
-- `[00:00]` 👨‍🏫 **陈老师**：哈喽，欢迎来到《Mastering Chemistry》Book 3B 最核心的一章——**Unit 31：Typical reactions of selected functional groups，各官能团的典型反应**！小琳，在正式打开新地图之前，如果把有机化学比作地铁网络，你知道 Unit 31 扮演什么角色吗？
-- `[00:20]` 🙋‍♀️ **小琳**：陈老师好！我在前面 Unit 29 和 Unit 30 刚认全了醇、醛、酮、羧酸、酯、酰胺这些官能团（functional groups）的名字和异构体，Unit 31 应该就是教它们怎么互相变身、怎么换乘的吧？
-- `[00:39]` 👨‍🏫 **陈老师**：一点没错！掌握了这一章，后面 Unit 32 的多步有机合成（multi-step synthesis）和结构推断题就全通了。咱们先看屏幕上的**第 1 张板书**，花半分钟把 Topic 7 学过的两类老朋友热个身：左边是只含单键的饱和烃——**烷烃（alkanes）**。它平时很懒惰，只有遇到氯气或溴，在什么条件下才会发生反应？
-- `[01:04]` 🙋‍♀️ **小琳**：这个我记得！箭头上面必须按精工课本标准写 `UV light`（紫外光）或者 `heat`（加热），发生**自由基取代反应（free radical substitution）**，还要经历 `Initiation` 链引发、`Propagation` 链增长、`Termination` 链终止三个阶段！
-- `[01:23]` 👨‍🏫 **陈老师**：非常扎实！再看板书右边，**烯烃（alkenes）**因为有一根不饱和的碳碳双键（carbon-carbon double bond, `C=C`），性格就活泼多了，最爱发生**加成反应（addition reactions）**：把双键打开，左右两个双键碳一人分一个原子。比如加氢气叫**催化氢化（catalytic hydrogenation）**，用铂 `Pt` 或钯 `Pd` 在室温就能反应，如果用镍 `Ni` 催化剂就要加上 `heat`；加有机溶剂里的溴 `Br₂`，室温避光就能让橙棕色瞬间褪为无色。
-#### 📌 【板书 2 · 核心定律 (31.3)】不对称烯烃 + HX 加成：马氏规则（Markovnikov's Rule）（`01:55` – `03:46`）
+- `[00:00]` **🎯 单元破冰 · Alkanes 自由基取代与 UV light 红线**：同学们好，欢迎来到 **Unit 31：*Typical Reactions of Selected Functional Groups***！看**第 1 张板书**左框回顾 `alkanes`：在 **`UV light 或 `heat`** 下与 Cl₂/Br₂` 发生 **`free radical substitution`**（经 `Initiation`、`Propagation`、`Termination`），溴缓慢褪色并冒 `steamy fumes`。切记必写 **`UV light`** 禁写 *hν*，电子图禁画鱼钩箭头！
+- `[00:37]` **⚡ 双键本领 · 对称 Alkenes 催化加氢与卤化加成**：再看第 1 张板书右框：含 `C=C` 的 **`alkenes`** 最擅长打开双键两边各接原子的 **`addition reactions`**。加 `H₂(g)` 叫 **`catalytic hydrogenation`**（用 `Pt/Pd` 室温即可，用 `Ni` 必补 **`heat`**）；加 `Br₂ (in organic solvent)` 叫 **`halogenation`**，避光摇晃橙棕色立即 `decolorizes`。那如果加上不对称的 `HX` 呢？
+#### 📌 【板书 2 · 马氏规则 (31.3)】Unsymmetrical Alkenes 加 HX 与 Markovnikov's Rule 标准英文采分句（`01:13` – `02:17`）
 
-- `[01:55]` 🙋‍♀️ **小琳**：老师，以前我们用乙烯（ethene, `CH₂=CH₂`）加氢气或者加溴，两边都是对称的，怎么加都只有一种产物。但如果烯烃两边不对称，加进来的又是像溴化氢（`HBr`）这样一头氢、一头溴的分子，岂不是有两种排法了？
-- `[02:14]` 👨‍🏫 **陈老师**：你一下子就问到 31.3 节的核心了！请看**第 2 张板书**：像丙烯（propene, `CH₃—CH=CH₂`）这样，双键两端的碳连着不同基团的烯烃，英文叫 **unsymmetrical alkene，不对称烯烃**。当它和卤化氢（hydrogen halide, `HX`，比如 `HCl` 或 `HBr`）在室温下加成时，确实会同时生成两种互为**位置异构体（position isomers）**的卤代烷——但它们俩的产量可不是五五开，而是一多一少！多的叫 **major product（主产物）**，少的叫 **minor product（副产物）**。
-- `[02:48]` 🙋‍♀️ **小琳**：那怎么判断谁是 major product（主产物）呢？
-- `[02:52]` 👨‍🏫 **陈老师**：靠的就是板书顶上这条鼎鼎大名的**马氏规则（Markovnikov's rule）**！我们先听一遍课本的标准英文表述，考试写解释题可以直接拿分：*When a molecule HX adds to an unsymmetrical alkene, the hydrogen atom H attaches mainly to the carbon atom of the carbon-carbon double bond that already carries a greater number of hydrogen atoms.* 用四个字总结就是——**“氢多加氢”**！你看丙烯 `CH₃—CH=CH₂`：右边 1 号双键碳 `=CH₂` 原本带着 2 个氢，左边 2 号双键碳 `-CH=` 只带 1 个氢。`HBr` 上车时，`H` 喜欢往氢朋友更多的 1 号碳上挤，`Br` 就去 2 号碳，所以主产物（major product）是中间挂溴的 **2-溴丙烷（2-bromopropane）**，而末端挂溴的 1-溴丙烷（1-bromopropane）只是副产物（minor product）！
-#### 📌 【板书 3 · DSE 考官双陷阱】陷阱 ① 只数双键碳直接相连的 H  |  陷阱 ② 戊-2-烯马氏无偏向（`03:46` – `06:42`）
+- `[01:13]` **📐 马氏导航 · Markovnikov's Rule 标准英文原话**：切换到**第 2 张板书**！双键两端基团不同的烯烃如 `propene` 称为 **`unsymmetrical alkene`**，室温与 `HX` 加成生出一对位置异构体。谁当主产物 **`major product`**？背准 **`Markovnikov's rule`**：*当 `HX` 加到 `unsymmetrical alkene` 时，`H` 主要加到原本已连有更多 `H` 原子的那颗 `C=C` 双键碳上*——即“氢多加氢”！
+- `[01:39]` **🔍 实例拆解 · Propene 与 But-1-ene 主副产物推导**：实战推导 `propene + HBr`：末端 `C-1 (=CH₂)` 直接连 **`2 颗 H，中间 `C-2 (—CH=)` 仅连 **`1` 颗 H**；按 `Markovnikov's rule`，`H` 去 `C-1`、`Br` 去 `C-2`，故 `major product` 为 `2-bromopropane`**，副产物为 1-bromopropane`。同理 `but-1-ene + HBr` 主产手性 `2-bromobutane`。切记禁写超纲的 *carbocation stability*！
+#### 📌 【板书 3 · 马氏双陷阱 (31.3)】考场两大夺命陷阱：(CH₃)₂C=CH₂“假多氢” vs pent-2-ene“1H : 1H 平手局”（`02:17` – `03:39`）
 
-- `[03:46]` 🙋‍♀️ **小琳**：“氢多加氢”好记！不过陈老师，我看**第 3 张板书**左边那个甲基丙烯（methylpropene, `(CH₃)₂C=CH₂`），左边双键碳上挂着两个甲基 `-CH₃`，二三得六，足足有 6 个氢原子；右边 `=CH₂` 才 2 个氢！那加 `HCl` 的时候，氢是不是应该加去左边啊？
-- `[04:05]` 👨‍🏫 **陈老师**：哈哈，停！你刚刚踩中的就是 DSE 选择题最喜欢挖的**头号陷阱**！一定要拿红笔画重点：马氏规则只数**直接连在碳碳双键那两个碳原子身上的氢**！你看甲基丙烯左边的 2 号双键碳，它四只手抓着两个碳和一根双键，**直接连在它身上的氢原子是 0 个**！那 6 个氢是连在隔壁甲基碳上的“邻居”，根本不算数！相反，右边 1 号双键碳 `=CH₂` 直接连着 2 个氢。2 比 0 多，所以 `H` 照样加去右边 1 号碳，`Cl` 加到中间 2 号碳，主产物是 **2-氯-2-甲基丙烷（2-chloro-2-methylpropane）**！
-- `[04:48]` 🙋‍♀️ **小琳**：哇，好险！只看双键碳“亲生的”氢，不看甲基邻居的氢！那老师，板书右边那个戊-2-烯（pent-2-ene, `CH₃CH₂CH=CHCH₃`）好奇怪，它左右一边是乙基、一边是甲基，肯定是不对称烯烃；可它两个双键碳上各自都只连着 1 个氢，1 比 1 打平手了怎么办？
-- `[05:10]` 👨‍🏫 **陈老师**：太敏锐了！这就是**第二个考官陷阱**：戊-2-烯（pent-2-ene）确实是不对称烯烃，所以加 `HBr` 会生成两种不同的位置异构体——`2-bromopentane` 和 `3-bromopentane`；但因为两个双键碳各带 1 个氢，马氏规则没有偏向，结果就是生成**产量相近的等量混合物，没有单一主产物**！顺便对比它上面的丁-2-烯（but-2-ene, `CH₃CH=CHCH₃`）：丁-2-烯左右完全对称，不管 `Br` 加在 2 号位还是 3 号位，翻过来名字都叫 `2-bromobutane`，所以只有**唯一一种**结构产物！
-- `[05:51]` 🙋‍♀️ **小琳**：全理清了！还有一点老师，马氏规则句子里写的是 `attaches mainly`（主要连接），是不是说明如果题目问“丙烯加 `HBr` 一共生成几种有机产物”，副产物也得算进去，答 2 种？
-- `[06:06]` 👨‍🏫 **陈老师**：满分觉悟！`Major product` 只是占大多数，绝不是 100% 唯一产物。而且留个小心眼：像丁-1-烯（but-1-ene）加 `HBr` 生成的主产物 `2-bromobutane`，2 号碳是个连了四个不同基团的手性碳（chiral carbon），如果题目特意问“考虑立体异构体（stereoisomers）共有几种产物”，还得把那一对对映异构体拆成 2 个算！好啦，现在我们手里已经拿到卤代烷（haloalkanes）了，下一讲我们就看怎么把卤代烷变成醇，顺便揭秘必考的卤素离子检验三步曲！
+- `[02:17]` **⚠️ 夺命陷阱 ① · Methylpropene 的“0 氢假象”**：聚焦**第 3 张板书**防住两大陷阱！先看 `methylpropene` `(CH₃)₂C=CH₂ + HCl`：千万别看左边挂两个甲基共 6 颗氢就让氢往左跑！**铁律：只准数直接连在 `C=C` 双键碳上的“亲生氢”！**左端 `C-2` 直接连 **`0 颗 H，右端 `=CH₂` 直接连 **`2` 颗 H**，故 `H` 必去右端，主产物是 2-chloro-2-methylpropane`**！
+- `[03:00]` **⚠️ 夺命陷阱 ② · Pent-2-ene 的“1 比 1 平手双产物”**：再看底部王牌对比：对称的 `but-2-ene + HBr` 加哪边都得唯一产物 `2-bromobutane`；而五碳的 **`pent-2-ene`**（`CH₃CH₂CH=CHCH₃`）虽属 `unsymmetrical alkene`，但双键两碳 `C-2` 和 `C-3` **各带 `1` 颗 H 打成平手**！`Markovnikov's rule` 无偏向，生成**约等量（roughly equal amounts）**的 `2-bromopentane` 与 `3-bromopentane`！
 
 ### 预习自检快问快答
 
-**Q1. 根据马氏规则（Markovnikov's rule），甲基丙烯 (CH₃)₂C=CH₂ 与 HBr 在室温下加成的主产物（major product）是什么？**
-- A. 1-溴-2-甲基丙烷（1-bromo-2-methylpropane）
-- B. 2-溴-2-甲基丙烷（2-bromo-2-methylpropane）
-- C. 2-溴丁烷（2-bromobutane）
-- **答案：B** — 只数直接连在 C=C 双键碳上的 H：(CH₃)₂C= 带 0 个 H，=CH₂ 带 2 个 H；按“氢多加氢”，H 加去 =CH₂，Br 加去中间碳，得 (CH₃)₃CBr（2-bromo-2-methylpropane）。
+**Q1. 根据马氏规则（Markovnikov's rule），(CH₃)₂C=CH₂ 与 HBr(g) 在室温下加成所得主产物（major product）的系统 IUPAC 名称是什么？**
+- A. 1-bromo-2-methylpropane
+- B. 2-bromo-2-methylpropane
+- C. 2-bromobutane
+- D. 1-bromobutane
+- **答案：B** — 只数直接连在 C=C 双键碳上的氢原子：右端 C-1 (=CH₂) 直接连有 2 个 H，而 C-2 直接连有 0 个 H！按 Markovnikov's rule，H 加到 C-1，Br 加到 C-2，得 (CH₃)₃CBr，系统名称为 2-bromo-2-methylpropane。
 
-**Q2. 下列哪个烯烃与 HBr 反应会生成两种产量相近的位置异构溴代烷（无明显单一主产物）？**
-- A. 丙烯 propene (CH₃CH=CH₂)
-- B. 丁-2-烯 but-2-ene (CH₃CH=CHCH₃)
-- C. 戊-2-烯 pent-2-ene (CH₃CH₂CH=CHCH₃)
-- **答案：C** — 戊-2-烯（pent-2-ene）既是不对称烯烃，同时 C2 和 C3 双键碳各带 1 个 H，马氏规则无偏向，生成约等量的 2-bromopentane 和 3-bromopentane。丁-2-烯对称，只给唯一产物。
+**Q2. 下列哪种烯烃与 HBr 在室温下反应时，会生成约等量（roughly equal amounts）的两种位置异构溴代烷（无单一占优主产物）？**
+- A. propene
+- B. but-2-ene
+- C. pent-2-ene
+- D. 2-methylbut-2-ene
+- **答案：C** — but-2-ene 左右对称，只生成唯一结构产物 2-bromobutane；唯有 pent-2-ene (CH₃CH₂CH=CHCH₃) 既是不对称烯烃，且双键两碳 C-2 与 C-3 各只带 1 个 H 原子打成平手，Markovnikov's rule 无偏向，生成约等量的 2-bromopentane 与 3-bromopentane。
+
 
 ---
 
-## 第 2 讲（31.4）：卤代烷的取代反应：碱性水解与卤素离子检验
-*Substitution Reactions of Haloalkanes: Alkaline Hydrolysis & Testing for Halide Ions*  
-**分节音频**：`audio/02_31.4_卤代烷碱性水解与卤素离子检验.mp3`（时长 `05:53`）
+## 第 2 讲（31.4）：卤代烷（Haloalkanes）的碱性水解、验卤三步铁律与键焓速率规律
+*Alkaline Hydrolysis of Haloalkanes, Halide Ion Test & Bond Enthalpy Rate Trend*  
+**分节音频**：`audio/02_31.4_卤代烷碱性水解与卤素离子检验.mp3`（时长 `03:46`）
 
-- **预习目标**：掌握卤代烷（haloalkanes）经碱性水解（alkaline hydrolysis）转化为醇的化学与离子方程式，背熟“先过量稀硝酸酸化、再加硝酸银”验卤三步曲，并从键焓（bond enthalpy）角度理解水解快慢顺序 R—I > R—Br > R—Cl。
-- **本讲核心双语词汇**：**alkaline hydrolysis**（碱性水解（取代反应）） ｜ **heating under reflux**（回流加热） ｜ **excess dilute nitric acid**（过量稀硝酸（酸化除 OH⁻）） ｜ **white / creamy / yellow precipitate**（白 / 乳黄 / 黄色卤化银沉淀） ｜ **bond enthalpy**（键焓（决定断键快慢））
+- **预习目标**：掌握卤代烷碱性水解的化学方程式与消去 Na⁺ 的离子方程式，背熟“为何必须 heat under reflux”拆词 2 分模板、检验卤素离子必加过量稀硝酸三步曲，以及由 C—X bond enthalpy 决定的 R—I > R—Br > R—Cl 水解速率规律。
+- **本讲核心双语词汇**：**alkaline hydrolysis**（碱性水解（取代反应）） ｜ **heating under reflux**（回流加热（加速+防挥发）） ｜ **excess dilute HNO₃(aq)**（过量稀硝酸（中和残余 OH⁻）） ｜ **white / creamy / yellow ppt**（AgCl 白 / AgBr 乳黄 / AgI 黄沉淀） ｜ **bond enthalpy**（键焓（决定 C—X 断键快慢）） ｜ **iodoalkane (R—I)**（碘代烷（键焓最弱、水解最快））
 
-### 师生互动讲授逐字稿
+### 课堂主讲逐字稿
 
-#### 📌 【板书 1 · 取代与回流 (31.4)】卤代烷的碱性水解（Alkaline Hydrolysis）及回流加热原因（`00:00` – `02:09`）
+#### 📌 【板书 1 · 碱性水解 (31.4A)】Haloalkanes 碱性水解方程式与“为何 Heat under Reflux”拆词 2M 模板（`00:00` – `01:11`）
 
-- `[00:00]` 👨‍🏫 **陈老师**：欢迎回到第 2 讲！上一讲我们用烯烃加成拿到了卤代烷（haloalkanes, `R—X`）。在有机合成里，卤代烷可是连接“烃类世界”和“含氧世界”的黄金跳板！请看**第 1 张板书**：当我们把溴乙烷（bromoethane, `CH₃CH₂Br`）和氢氧化钠水溶液（`NaOH(aq)`）放在一起**回流加热（heat under reflux）**，会发生什么变化？
-- `[00:23]` 🙋‍♀️ **小琳**：我看方程式里，溶液中的氢氧根离子（hydroxide ion, `OH⁻`）上去把溴原子（`-Br`）顶替了下来，变成了乙醇（ethanol, `CH₃CH₂OH`），掉下来的溴变成了水里的溴离子（`Br⁻`）！这算取代反应（substitution reaction）对吧？
-- `[00:40]` 👨‍🏫 **陈老师**：完全正确！在精工课本里，这个取代反应还有一个专门的名字，叫**碱性水解（alkaline hydrolysis）**。这里有个写方程式的细节要盯紧：如果题目让你写**化学方程式（chemical equation）**，左边写 `NaOH(aq)`，右边写 `NaBr(aq)`；但如果题目要求写**离子方程式（ionic equation）**，钠离子 `Na⁺` 前后都没变，属于旁观离子（spectator ion），必须消掉，写成：`R—X + OH⁻(aq) ⟶ R—OH + X⁻(aq)`，两边各带 1 个负电荷，电荷与原子完全守恒！
-- `[01:17]` 🙋‍♀️ **小琳**：记住了，看清题目问的是 chemical equation 还是 ionic equation！不过老师，为什么反应条件非要写 `heat under reflux`（回流加热），室温下在烧杯里搅一搅不行吗？
-- `[01:31]` 👨‍🏫 **陈老师**：这正是 DSE 实验简答题常考的 2 分题！答题时我们要把 `heat` 和 `under reflux` 拆成两半各拿 1 分：第一，卤代烷不溶于水，分成上下两层，室温下碳卤共价键断裂得很慢，所以要 **heating（加热）来加快缓慢的取代反应速率**；第二，短链卤代烷沸点低、非常容易挥发（volatile），敞口一烧全跑光了！在烧瓶顶上竖着装一根冷凝管进行 **reflux（回流）**，就能把挥发上去的蒸气冷凝变回液滴流回烧瓶里，防止反应物和产物散失。
-#### 📌 【板书 2 · 必考实验三步曲】检验卤代烷释放出的卤素离子（Testing for Halide Ions Released）（`02:09` – `04:13`）
+- `[00:00]` **🎯 烃氧跳板 · 碱性水解与离子方程式消 Na⁺**：欢迎来到第 2 讲！`Haloalkanes (R—X)` 是从烃通往含氧家族的跳板。看**第 1 张板书**顶部：与 **`NaOH(aq)`** 进行 **`heating under reflux`**，`OH⁻` 顶替卤素生成 `alcohol` 与游离 `X⁻(aq)`，既属 **`substitution reaction`**，亦称 **`alkaline hydrolysis`**。写 **`ionic equation`** 时必消去旁观离子 `Na⁺`！
+- `[00:35]` **📝 满分模板 · 拆词法拿满 Heat under Reflux 两分**：再看第 1 张板书下方必考 2 分题：*为何卤代烷与 `NaOH(aq)` 必须 `heat under reflux`？*用拆词法各拿 1 分：① 拆 **`heat`**——卤代烷与水 `immiscible` 且室温反应极慢，加热能**加快反应速率（speeds up rate）**；② 拆 **`under reflux`**——短链卤代烷沸点低、易挥发（`volatile`），竖装冷凝管将蒸气冷凝流回烧瓶防损失！
+#### 📌 【板书 2 · 验卤三步曲 (31.4B)】检验 Haloalkane 所含卤素种类的必考三步曲（漏写稀硝酸直接 0 分！）（`01:11` – `02:28`）
 
-- `[02:09]` 🙋‍♀️ **小琳**：原来如此！那老师，如果我想检验某瓶未知卤代烷里装的到底是氯、溴还是碘，能不能直接往纯卤代烷液体里滴硝酸银溶液（`AgNO₃(aq)`）看沉淀颜色呀？
-- `[02:24]` 👨‍🏫 **陈老师**：好问题！请看**第 2 张板书**：纯卤代烷属于**共价化合物（covalent compound）**，卤素原子被共价键死死拴在碳链上，液体里根本没有自由移动的卤素离子 `X⁻`，直接滴硝酸银什么沉淀都不会有！所以第一步，必须先和 `NaOH(aq)` 回流加热把 `X⁻` 离子拆下来。那你猜猜，回流冷却之后，能不能立刻往烧瓶里滴 `AgNO₃(aq)`？
-- `[02:51]` 🙋‍♀️ **小琳**：咦……刚刚回流的时候加了很多氢氧化钠，溶液里肯定还剩下一大堆氢氧根离子 `OH⁻`！银离子 `Ag⁺` 撞上 `OH⁻` 会不会自己先沉淀了？
-- `[03:04]` 👨‍🏫 **陈老师**：漂亮！一针见血！如果不先清场，残留的 `OH⁻` 会抢先跟 `Ag⁺` 生成棕黑色的氧化银沉淀（`Ag₂O`），把原本卤化银的颜色遮得严严实实！所以**第二步是生死攸关的拿分点**：必须先加入**过量稀硝酸（excess dilute nitric acid, `HNO₃(aq)`）**把剩余的 `OH⁻` 彻底中和掉！小琳，要是实验桌上刚好有稀盐酸（`dilute HCl`），我顺手拿稀盐酸去酸化行不行？
-- `[03:34]` 🙋‍♀️ **小琳**：哈哈，绝对不行！稀盐酸自己就带着一大堆氯离子 `Cl⁻`，倒进去再滴硝酸银，不管原来是什么卤代烷，全都会冒出白色的氯化银沉淀，成假警报了！
-- `[03:46]` 👨‍🏫 **陈老师**：太清醒了！稀硫酸也不行，因为硫酸银微溶也会干扰。所以酸化**只能认准 `excess dilute HNO₃(aq)`（过量稀硝酸）**！酸化完进入第三步，滴加硝酸银溶液（`AgNO₃(aq)`），三种沉淀颜色英文一定要背准：氯化银 `AgCl` 是 **white precipitate（白色沉淀）**，溴化银 `AgBr` 是 **creamy precipitate（乳黄色沉淀）**，碘化银 `AgI` 是 **yellow precipitate（黄色沉淀）**。
-#### 📌 【板书 3 · 速率与微观机理】三类卤代烷水解快慢对比：为什么键焓（Bond Enthalpy）打败了键极性？（`04:14` – `05:53`）
+- `[01:11]` **⚠️ 验卤铁律 · 为何加 AgNO₃ 前必加过量稀硝酸？**：切到**第 2 张板书**看检验卤代烷所含卤素的**必考三步曲**！纯 `R—X` 是共价分子，直接滴 `AgNO₃(aq)` 无沉淀。故 **Step 1** 先与 `NaOH(aq)` 回流断键并冷却；**Step 2 生死采分步：必加 `excess dilute nitric acid, HNO₃(aq)` 酸化中和残余 `OH⁻`**，防止生成棕黑色 `Ag₂O(s)` 遮盖颜色——严禁用稀盐酸或稀硫酸替代！
+- `[01:53]` **🎨 三色沉淀 · 白、乳黄、黄色卤化银精准色号**：用 `excess dilute HNO₃(aq)` 清场后，**Step 3** 滴加 **`AgNO₃(aq)`**，背准考评局三个标准英文色号：`chloroalkane` 释放 `Cl⁻` 得 `AgCl` **`white precipitate`**；`bromoalkane` 释放 `Br⁻` 得 `AgBr` **`creamy（或 `pale yellow`）`precipitate`**；iodoalkane` 释放 `I⁻` 得 `AgI` **`yellow precipitate`**！漏写稀硝酸直接 0 分！
+#### 📌 【板书 3 · 速率与键焓 (31.4B)】水解速率 R—I > R—Br > R—Cl 与 C—X Bond Enthalpy 决定机制（`02:29` – `03:45`）
 
-- `[04:14]` 🙋‍♀️ **小琳**：白、乳黄、黄，三个颜色层层加深！那陈老师，**第 3 张板书**比较氯丁烷、溴丁烷和碘丁烷的水解快慢，氯原子的电负性（electronegativity）最高，把碳拉得最带正电，难道不是氯代烷 `R—Cl` 水解最快吗？
-- `[04:32]` 👨‍🏫 **陈老师**：几乎所有初学的同学都会这么猜，但实验结果恰恰相反！如果我们把等量的 1-氯丁烷、1-溴丁烷、1-碘丁烷分别溶在乙醇和硝酸银水溶液里放在温水浴计时——这里加乙醇作助溶剂是为了让油和水互溶公平比赛——你会亲眼看到：**黄色的碘化银最先变浑浊，乳黄色的溴化银第二，白色的氯化银最慢**！也就是说，水解速率是：**碘代烷最快，溴代烷居中，氯代烷最慢（`R—I > R—Br > R—Cl`）**！
-- `[05:05]` 🙋‍♀️ **小琳**：哇，真的是反过来的！为什么极性更强的 `C—Cl` 键反而最慢呢？
-- `[05:10]` 👨‍🏫 **陈老师**：因为取代反应最费劲的一步是要**硬生生扯断那根碳卤共价键（`C—X` bond）**！决定断键难易的主角不是键极性，而是**键焓（bond enthalpy，也就是键能强弱）**。碘原子个头最大，`C—I` 键长最长、**键焓最弱（lowest bond enthalpy）**，轻轻一碰就断了；而 `C—Cl` 键又短又结实、键焓最高，最难打断。考试还要防一个大坑：千万别把原因写成范德华力（van der Waals' forces）——分子间作用力只管沸点高低，管不了分子内部共价键的断裂！下一讲，我们就正式走进今天生成的主角——“百变瑞士军刀”醇（alcohols）的世界！
+- `[02:29]` **⏱️ 速率实测 · 乙醇助溶温水浴比拼出沉淀先后**：进入**第 3 张板书**比拼水解快慢！将链长相同的氯、溴、碘代丁烷分别溶入含 **`ethanol`** 与 **`AgNO₃(aq)`** 的混合液置于温水浴计时（`ethanol` 作共同溶剂使油水互溶）。实验结果：**黄色 `AgI` 最先出沉淀，乳黄 `AgBr` 第二，白色 `AgCl` 最慢**——即水解速率规律为 **`R—I > R—Br > R—Cl`**！
+- `[03:05]` **🚨 归因防坑 · Bond Enthalpy 碾压极性与范德华力**：为何电负性最小的碘代烷最快？盯紧第 3 张板书：水解瓶颈是扯断 `C—X` 键，由 **`bond enthalpy`（键焓）**决定！碘半径最大，`C—I` 键最长、**`lowest bond enthalpy`（键焓最弱）**，最易断裂！严禁按 `bond polarity` 反猜 `R—Cl` 最快，更严禁扯只管沸点的 *van der Waals' forces*！
 
 ### 预习自检快问快答
 
-**Q1. 将溴乙烷与 NaOH(aq) 回流加热并冷却后，检验 Br⁻ 离子的正确操作与现象是什么？**
-- A. 直接加 AgNO₃(aq)，产生乳黄色沉淀
-- B. 先加过量稀盐酸 dilute HCl(aq)，再加 AgNO₃(aq)，产生乳黄色沉淀
-- C. 先加过量稀硝酸 excess dilute HNO₃(aq)，再加 AgNO₃(aq)，产生乳黄色沉淀（creamy precipitate）
-- **答案：C** — 必须先用过量稀硝酸（excess dilute HNO₃）中和剩余的 OH⁻（防棕黑色 Ag₂O 干扰），且绝不能用自带 Cl⁻ 的稀盐酸；AgBr 为乳黄色沉淀（creamy precipitate）。
+**Q1. 1-Bromopropane 与 NaOH(aq) 回流加热（heated under reflux）并冷却后，应如何检验释放出的 Br⁻(aq)？**
+- A. 直接滴加 AgNO₃(aq)，观察白色沉淀
+- B. 先加过量稀 HCl(aq) 酸化，再滴加 AgNO₃(aq)，观察乳黄色沉淀
+- C. 先加过量稀 HNO₃(aq) 酸化，再滴加 AgNO₃(aq)，观察乳黄色沉淀（creamy precipitate）
+- D. 先加浓 H₂SO₄ 酸化，再滴加 Br₂ 水溶液
+- **答案：C** — 冷却后的碱性水解液含大量残余 OH⁻，直接滴加 AgNO₃(aq) 会生成棕黑色 Ag₂O 沉淀干扰；且不能用自带 Cl⁻ 的稀 HCl。必须先加 excess dilute HNO₃(aq) 中和 OH⁻，再加 AgNO₃(aq)，生成乳黄色（creamy / pale yellow）AgBr 沉淀。
 
-**Q2. 为什么 1-碘丁烷（1-iodobutane）的水解速率快于 1-氯丁烷（1-chlorobutane）？**
-- A. C—I 共价键的键焓最低（lowest bond enthalpy），最容易断裂
-- B. C—I 键的极性比 C—Cl 键更强
-- C. 1-碘丁烷分子间的范德华力（van der Waals' forces）更强
-- **答案：A** — 卤代烷水解快慢由 C—X 共价键键焓（bond enthalpy）强弱决定：C—I 键最长、键焓最弱，最易断裂释放 I⁻。
+**Q2. 在相同条件下，1-iodobutane 的水解速率快于 1-chlorobutane，其正确微观原因是什么？**
+- A. 1-iodobutane 分子间 van der Waals' forces 更强
+- B. C—I 键的键焓（bond enthalpy）低于 C—Cl 键，C—I 键更容易断裂
+- C. 碘原子的电负性（electronegativity）高于氯原子，C—I 键极性更强
+- D. 1-iodobutane 在水中的溶解度远大于 1-chlorobutane
+- **答案：B** — 卤代烷水解需打断 C—X 共价键。碘原子半径大于氯原子，使 C—I 键键长更长、bond enthalpy（键焓）更低（键更弱），在水解过程中更易断裂，故 R—I 水解最快。
+
 
 ---
 
-## 第 3 讲（31.5 (上)）：醇的反应（上）：与钠反应、四大卤代试剂与脱水成烯
-*Reactions of Alcohols (Part A): Reaction with Sodium, Substitution to Haloalkanes & Dehydration*  
-**分节音频**：`audio/03_31.5A_醇与钠反应_卤代与脱水成烯.mp3`（时长 `06:30`）
+## 第 3 讲（31.5 (上)）：醇（Alcohols）与钠反应、氯代双雄 PCl₅ / SOCl₂ 分工与催化脱水陷阱
+*Reactions of Alcohols with Sodium, Halogenating Reagents (HX, PX₃, PCl₅, SOCl₂) & Dehydration*  
+**分节音频**：`audio/03_31.5A_醇与钠反应_卤代试剂与脱水成烯.mp3`（时长 `03:48`）
 
-- **预习目标**：掌握醇（alcohols）与金属钠反应的现象与配平，对比 HX、PX₃、PCl₅（冒白雾检验 -OH）与 SOCl₂（高纯度合成氯代烷）四大卤代试剂，并攻克仲醇脱水成烯时的顺反异构（cis-trans isomerism）计数陷阱。
-- **本讲核心双语词汇**：**sodium alkoxide (R—O⁻Na⁺)**（醇钠（如乙醇钠）） ｜ **phosphorus pentachloride (PCl₅)**（五氯化磷（检 -OH 产白雾）） ｜ **steamy fumes / white misty fumes**（白雾（HCl(g) 标准现象词）） ｜ **thionyl chloride (SOCl₂)**（氯化亚砜（气态副产物易提纯）） ｜ **dehydration**（脱水反应（消去反应））
+- **预习目标**：掌握无水醇与 Na 沉底放氢生成 sodium alkoxide、室温浓盐酸快检 3° 醇，厘清固体 PCl₅(s) 冒 steamy fumes 定性检 —OH 与 SOCl₂ 纯化合成的黄金分工，攻克仲醇脱水拆顺反出 3 种烯烃的压轴计数大坑。
+- **本讲核心双语词汇**：**sodium alkoxide (RO⁻Na⁺)**（醇钠（无水醇 + Na）） ｜ **phosphorus pentachloride (PCl₅)**（五氯化磷（室温检无水 —OH）） ｜ **steamy fumes / white misty fumes**（白雾（HCl 遇水汽，禁写 smoke!）） ｜ **thionyl chloride (SOCl₂)**（氯化亚砜（副产物全气体易提纯）） ｜ **dehydration**（脱水反应（Al₂O₃ 或浓硫酸 180 °C）） ｜ **cis-trans isomers**（顺反异构体（butan-2-ol 出 3 烯））
 
-### 师生互动讲授逐字稿
+### 课堂主讲逐字稿
 
-#### 📌 【板书 1 · 醇与活泼金属 (31.5)】无水醇与金属钠（Sodium, Na）的反应及现象对比（`00:00` – `01:25`）
+#### 📌 【板书 1 · 醇加钠与 HX/PX₃ (31.5A–B)】无水 Alcohols 与 Na(s) 沉底放氢 + 室温浓 HCl 快检 3° 醇及 PX₃ 计量（`00:00` – `01:13`）
 
-- `[00:00]` 👨‍🏫 **陈老师**：欢迎来到第 3 讲！从这一讲开始，我们正式解锁有机地铁网里最繁忙的换乘中心——**醇（alcohols, `R—OH`）**。因为它身上的羟基（hydroxyl group, `-OH`）既能断氢、又能整个替换成卤素、还能脱掉水变回烯烃，甚至还能氧化变醛和酸！由于内容超丰富，我们把醇拆成上下两讲。先看**第 1 张板书**：把一小块金属钠（sodium, `Na`）丢进无水乙醇（anhydrous ethanol）里，会看到什么现象？
-- `[00:33]` 🙋‍♀️ **小琳**：钠跟水反应的时候是浮在水面上四处乱窜，那丢进乙醇里也是浮着的吗？
-- `[00:40]` 👨‍🏫 **陈老师**：恰恰相反！乙醇密度比水小，钠的密度比乙醇大，所以钠块会**沉在液底（sinks to the bottom）**，反应比跟水温和得多，一边慢慢溶解，一边平稳冒出**无色气泡（colourless gas bubbles）**——也就是氢气 `H₂`！看方程式配平：因为 1 个氢气分子 `H₂` 需要 2 个氢原子，所以左边必须配 `2` 个乙醇加 `2` 个钠，右边生成 `2` 个**乙醇钠（sodium ethoxide, `CH₃CH₂O⁻Na⁺`）**和 `1` 个 `H₂(g)`。注意了，如果我想用金属钠检验某瓶液体含不含醇羟基，前提条件是什么？
-- `[01:14]` 🙋‍♀️ **小琳**：待测液体必须是**无水干燥的（dry / anhydrous）**！要不然里面哪怕掺了一点水，水跟钠也会冒氢气，根本分不清是谁在反应！
-#### 📌 【板书 2 · 羟基变卤素四大武器库】醇转化为卤代烷（R—OH ⟶ R—X）四类核心试剂与考点对照（`01:26` – `04:24`）
+- `[00:00]` **🎯 中央枢纽 · 无水醇加金属钠沉底冒泡**：欢迎来到第 3 讲，进入中央枢纽 **`alcohols (R—OH)`**！看**第 1 张板书**顶部：将 `Na(s)` 投入无水 `ethanol`，因乙醇密度小于钠，**`sodium sinks to the bottom`**，平稳冒出 **`colourless gas bubbles (H₂)`** 并生成 **`sodium ethoxide (CH₃CH₂O⁻Na⁺)`**，系数必配 `2:2 ⟶ 2:1`，且样品须 **`dry / anhydrous`**！
+- `[00:37]` **🧪 卤代前锋 · 室温浓盐酸快检叔醇与 PCl₃ 计量**：再看表格前两类卤代试剂：① 室温摇晃 **`conc. HCl(aq)`** 可快检 `3° alcohol`（`methylpropan-2-ol` 几分钟内迅速 **`turns cloudy rapidly`** 分层，`1° alcohol` 无变化）；制 `RBr` 用 `NaBr + conc. H₂SO₄`，制 `RI` 必换 **`red P + I₂`**（防浓硫酸氧化 `I⁻`）；② 用 **`PCl₃`** 盯紧 **`3 : 1`** 计量比生成 `H₃PO₃`！
+#### 📌 【板书 2 · 氯代双雄分工 (31.5B)】PCl₅(s) 室温白雾定性抓人 vs SOCl₂(l) 双气体副产物高纯合成（`01:13` – `02:28`）
 
-- `[01:26]` 👨‍🏫 **陈老师**：太棒了！这个“必须无水”的铁律，同样适用于我们接下来要看的羟基变卤素反应。请看**第 2 张板书**：上一讲我们用 `NaOH(aq)` 把卤代烷变成了醇；反过来，想把醇的 `-OH` 换回卤素变成卤代烷（`R—X`），课本一共给了**四大类试剂**！第一类是卤化氢 `HX`：这里藏着一个室温鉴别**叔醇（tertiary alcohol，即 3° 醇）**的妙招——把水溶性的甲基丙-2-醇（methylpropan-2-ol, `(CH₃)₃COH`）跟浓盐酸（`conc. HCl`）在室温下摇晃，短短几分钟内原本清澈的溶液就会**迅速变浑浊（turns cloudy）**，浮出不溶于水的氯代烷油层；而伯醇如丁-1-醇在室温下根本不动弹！
-- `[02:09]` 🙋‍♀️ **小琳**：哇，连加热都不用就能把叔醇抓出来！那如果要做溴代烷和碘代烷，为什么表格里写的是 `NaBr + conc. H₂SO₄` 和红磷加碘（`red P + I₂`）呢？
-- `[02:22]` 👨‍🏫 **陈老师**：因为溴化氢和碘化氢不稳定，通常在烧瓶里现做现用（*in situ*）：溴化钠加浓硫酸现场生成 `HBr`；但做碘代烷时千万不能用碘化钠加浓硫酸，因为浓硫酸氧化性太强，会把碘离子氧化成紫黑色的碘单质，所以改用红磷和碘现场生成三碘化磷来反应。
-- `[02:43]` 🙋‍♀️ **小琳**：明白了！那再往下看 ② `PCl₃`、③ `PCl₅` 和 ④ `SOCl₂`，这三个都能把醇变成氯代烷 `R—Cl`，考试最爱考哪两个呀？
-- `[02:52]` 👨‍🏫 **陈老师**：最爱考 ③ 和 ④ 的黄金分工！先看 ③ **五氯化磷固体（solid phosphorus pentachloride, `PCl₅(s)`）**：它是实验室**检验无水液体里含不含 `-OH` 基团的王牌测试**！室温下一加进去，立刻生成氯代烷 `RCl`、液态磷酰氯 `POCl₃` 和氯化氢气体 `HCl(g)`——千万背准这三样产物，别跟 `PCl₃` 生成的亚磷酸 `H₃PO₃` 搞混！冒出来的 `HCl` 气体遇到空气里的水汽形成酸雾，英文标准现象必须写 **steamy fumes** 或 **white misty fumes（白雾）**！小琳，能写成 *white smoke* 吗？
-- `[03:30]` 🙋‍♀️ **小琳**：不能！*Smoke*（烟）是固体小颗粒，而氯化氢吸水变成的是小液滴，必须叫 **steamy fumes（白雾）**！而且跟钠一样，如果待测液里有水，水跟 `PCl₅` 也会冒白雾，所以也必须无水干燥！那 ④ **氯化亚砜（thionyl chloride, `SOCl₂`）**又厉害在哪里呢？
-- `[03:53]` 👨‍🏫 **陈老师**：你看 `SOCl₂` 的方程式右边：`ROH + SOCl₂ ⟶ RCl + SO₂(g) + HCl(g)`！它的两个无机副产物——二氧化硫 `SO₂` 和氯化氢 `HCl`——**全都是气体（gases）**，反应时自己就咕嘟咕嘟跑出烧瓶了，烧瓶里只留下纯度很高的氯代烷 `RCl`，省去了分离液态杂质 `POCl₃` 的大麻烦！当然，因为 `SO₂` 和 `HCl` 有毒有刺激性，实验必须在通风橱（fume cupboard）里做。
-#### 📌 【板书 3 · 催化脱水与顺反陷阱】醇的脱水成烯（Dehydration）及丁-2-醇“一醇出三烯”考官陷阱（`04:24` – `06:29`）
+- `[01:13]` **🚨 氯代双雄 ① · 固体 PCl₅ 冒白雾禁写 White Smoke**：切到**第 2 张板书**左框看定性王牌 **`PCl₅(s)`**！往**无水（`anhydrous`）**未知液挑入固体 `PCl₅`，室温生成 `RCl + POCl₃(l) + HCl(g)`，立即涌出白雾。死记 HKEAA 现象词：必写 **`steamy fumes`** 或 **`white misty fumes`**，**严禁写 *white smoke*（固体微粒，直接 0 分！）**，须在 `fume cupboard` 操作！
+- `[01:50]` **🏆 氯代双雄 ② · SOCl₂ 双气体逸出高纯合成优势**：再看右框 2 分合成必答题：*制备纯液态 `chloroalkane` 为何首选 **`thionyl chloride (SOCl₂)`** 而非 `PCl₅`？*因 `ROH + SOCl₂ ⟶ RCl + SO₂(g) + HCl(g)` 的两个无机副产物 **`SO₂` 与 `HCl` 全是气体（both are gases）**，自动逸出反应体系留下纯 `RCl`；而 `PCl₅` 生成液态 `POCl₃(l)` 混溶难分离！
+#### 📌 【板书 3 · 催化脱水成烯 (31.5C)】Dehydration 两套标准条件与 Butan-2-ol“一醇出三烯”顺反计数杀手题（`02:28` – `03:48`）
 
-- `[04:24]` 🙋‍♀️ **小琳**：一个负责检验（`PCl₅` 看白雾），一个负责提纯合成（`SOCl₂` 副产物全跑光），一下子就记牢了！接下来看**第 3 张板书**的**脱水反应（dehydration）**，就是从醇分子相邻的两个碳上脱掉一个 `-OH` 和一个 `-H` 变回烯烃吧？
-- `[04:43]` 👨‍🏫 **陈老师**：对极了！实验室有两套标准脱水条件，背熟任选一套都能得分：第一套是加**过量浓硫酸加热到 180 摄氏度（`excess conc. H₂SO₄, 180 °C`）**；第二套是让醇蒸气通过**加热的氧化铝或碎素瓷片催化剂（`heated Al₂O₃` 或 `heated porous pot`，约 300 °C）**。注意像甲醇 `CH₃OH` 只有 1 个碳，或者 `(CH₃)₃C—CH₂OH` 隔壁碳上连满了甲基、1 个氢都没有，这两种醇是没法脱水成烯的！
-- `[05:17]` 🙋‍♀️ **小琳**：那像板书下面画的**丁-2-醇（butan-2-ol）**，2 号碳上的 `-OH` 可以跟左边 1 号碳脱氢变成丁-1-烯（but-1-ene），也可以跟右边 3 号碳脱氢变成丁-2-烯（but-2-ene）——咦？我数出来明明是 2 种，为什么板书标题写着“生成 3 种烯烃”？！
-- `[05:40]` 👨‍🏫 **陈老师**：哈哈，赶紧调动你在 Unit 30 学过的火眼金睛！仔细瞧瞧往右脱出来的**丁-2-烯（`CH₃CH=CHCH₃`）**：双键不能自由旋转，而且左右两个双键碳上各自都连着两个不同的基团（一个 `-H` 和一个 `-CH₃`）！这意味着什么？它存在**顺反异构（cis-trans isomerism）**！必须拆成**顺-丁-2-烯（cis-but-2-ene）**和**反-丁-2-烯（trans-but-2-ene）**两种立体异构体，再加上丁-1-烯，`1 + 2 = 3` 种！以后只要遇到仲醇脱水出内部双键，一定要多问自己一句“有没有顺反异构”，瞬间甩开一半考生！下一讲，我们继续攻克醇的重头戏——氧化反应与回流、蒸馏装置！
+- `[02:28]` **🔥 脱水成烯 · 两套标准条件与不能脱水的醇**：进入**第 3 张板书**看醇消去水分子变烯烃的 **`dehydration`**！两套标准条件：① **`excess conc. H₂SO₄, 180 °C`**；② 醇蒸气通过强热的 **`heated Al₂O₃（或 `porous pot`），排水集气停火前必先撤导气管防 `sucking back`**！注意 1 碳 methanol` 与相邻碳无 H 的 `(CH₃)₃CCH₂OH` 绝不能脱水！
+- `[03:04]` **⚠️ 压轴大坑 · Butan-2-ol 脱水拆顺反共出 3 种烯烃**：紧盯中间框图的王牌计数大坑：**`butan-2-ol（或 `pentan-2-ol`）脱水生成几种异构烯烃？答案是 `3` 种，绝非 2 种！向左脱 `C-1` 的 H 得末端双键 `but-1-ene`（无顺反，1 种）；向右脱 `C-3` 的 H 得内部双键 `CH₃CH=CHCH₃`，必拆成 `cis-but-2-ene`** 与 **`trans-but-2-ene`**，合计 1 + 2 = 3` 种！
 
 ### 预习自检快问快答
 
-**Q1. 为什么实验室由醇制备纯净氯代烷时，选用氯化亚砜（SOCl₂）往往比五氯化磷（PCl₅）更方便提纯？**
-- A. SOCl₂ 可以在水溶液中直接与醇反应
-- B. SOCl₂ 反应的两种无机副产物 SO₂(g) 和 HCl(g) 均为气体，会自动逸出反应体系
-- C. PCl₅ 在室温下完全不与醇反应
-- **答案：B** — ROH + SOCl₂ ⟶ RCl + SO₂(g) + HCl(g)，两种无机副产物全以气体形式逸出，省去了分离液态 POCl₃ 的步骤。
+**Q1. 能否使用固体五氯化磷 PCl₅(s) 来检验一瓶白葡萄酒水溶液（aqueous white wine）中是否含有乙醇（ethanol）？**
+- A. 可以，若冒出白色烟雾（white smoke）即证明含乙醇
+- B. 可以，只有乙醇能与 PCl₅(s) 反应放出 HCl 白雾
+- C. 不可以，因为白葡萄酒中的水（H₂O）也会与 PCl₅(s) 剧烈反应产生 HCl 白雾（steamy fumes）
+- D. 不可以，因为乙醇与 PCl₅(s) 在室温下完全不反应
+- **答案：C** — PCl₅(s) 检验 —OH 要求待测样品必须无水干燥（dry / anhydrous）！白葡萄酒水溶液中含有大量 H₂O，水本身就会与 PCl₅(s) 剧烈反应产生 steamy fumes of HCl(g)，无法判断是否有乙醇。
 
-**Q2. 丁-2-醇（butan-2-ol）通过加热的 Al₂O₃ 催化脱水时，最多可生成多少种烯烃异构体（包括顺反异构体）？**
-- A. 2 种（but-1-ene 与 but-2-ene）
-- B. 3 种（but-1-ene、cis-but-2-ene 与 trans-but-2-ene）
-- C. 4 种
-- **答案：B** — 丁-1-ene 无顺反异构（1 种），而丁-2-ene 双键两端碳各连 -H 和 -CH₃，存在 cis 与 trans 两种顺反异构体，共 3 种！
+**Q2. 将 pentan-2-ol 蒸气通过强热的氧化铝（heated Al₂O₃）发生脱水反应（dehydration），最多可生成多少种烯烃异构体（包含立体异构体）？**
+- A. 1 种
+- B. 2 种
+- C. 3 种（pent-1-ene, cis-pent-2-ene, trans-pent-2-ene）
+- D. 4 种
+- **答案：C** — 脱去 C-1 的 H 生成末端烯烃 pent-1-ene（无顺反异构，1 种）；脱去 C-3 的 H 生成内部烯烃 pent-2-ene（CH₃CH=CHCH₂CH₃），其双键两碳各自连有两个不同基团，存在 cis-pent-2-ene 与 trans-pent-2-ene 一对顺反异构体，合计 1 + 2 = 3 种！
+
 
 ---
 
-## 第 4 讲（31.5 (下)）：醇的反应（下）：伯、仲、叔醇的可控氧化与回流/蒸馏装置
-*Reactions of Alcohols (Part B): Oxidation of 1°, 2° & 3° Alcohols and Reflux vs Distillation*  
-**分节音频**：`audio/04_31.5B_伯仲叔醇的可控氧化与回流蒸馏.mp3`（时长 `05:44`）
+## 第 4 讲（31.5 (下)）：伯、仲、叔醇的可控氧化、回流 vs 蒸馏装置与 [O] 配平特训
+*Controlled Oxidation of 1°, 2° & 3° Alcohols, Reflux vs Distillation & [O] Equations*  
+**分节音频**：`audio/04_31.5B_伯仲叔醇可控氧化与回流蒸馏装置.mp3`（时长 `03:47`）
 
-- **预习目标**：吃透伯醇（1°）、仲醇（2°）、叔醇（3°）在酸化重铬酸钾下的氧化规律，从分子间氢键（hydrogen bonding）与沸点角度解释为什么蒸馏停在醛、回流得羧酸，掌握三大装置安全红线与 [O] 方程式配平。
-- **本讲核心双语词汇**：**acidified potassium dichromate solution**（酸化重铬酸钾溶液（橙变绿）） ｜ **primary / secondary / tertiary alcohol**（伯醇(1°) / 仲醇(2°) / 叔醇(3°)） ｜ **distillation vs heating under reflux**（蒸馏（得醛）vs 回流加热（得酸）） ｜ **intermolecular hydrogen bonds**（分子间氢键（决定沸点高低）） ｜ **anti-bumping granules**（防暴沸颗粒）
+- **预习目标**：吃透 1° / 2° / 3° 醇在酸化重铬酸钾（orange to green）与酸化高锰酸钾下的氧化差异，掌握 Heating under reflux 与 Distillation 装置红线及 ethanal 低沸点无氢键 3 分论述，锁死 1° 醇变酸必写 + 2[O] 与 + H₂O 配平铁律。
+- **本讲核心双语词汇**：**acidified K₂Cr₂O₇(aq)**（酸化重铬酸钾（橙变绿，可控）） ｜ **distillation**（蒸馏（及时蒸出低沸点 aldehyde）） ｜ **heating under reflux**（回流加热（彻底氧化至 carboxylic acid）） ｜ **intermolecular hydrogen bonds**（分子间氢键（醛无氢键故沸点最低）） ｜ **anti-bumping granules**（防暴沸颗粒（平稳沸腾）） ｜ **breathalyzer & souring of wine**（呼气酒精测试仪与酒变酸）
 
-### 师生互动讲授逐字稿
+### 课堂主讲逐字稿
 
-#### 📌 【板书 1 · 三级醇氧化总览 (31.5)】伯醇(1°)、仲醇(2°)与叔醇(3°)与酸化重铬酸钾 Cr₂O₇²⁻(aq)/H⁺(aq) 的反应（`00:00` – `01:43`）
+#### 📌 【板书 1 · 三级醇氧化图谱 (31.5D-1)】1° / 2° / 3° Alcohols 的氧化命运与 K₂Cr₂O₇ vs KMnO₄ 抉择红线（`00:00` – `01:10`）
 
-- `[00:00]` 👨‍🏫 **陈老师**：欢迎来到第 4 讲！这一讲我们要攻克整个 Unit 31 考频最高、也是实验题最爱出大题的王牌考点——**醇的氧化反应（oxidation of alcohols）**。请先看**第 1 张板书**：实验室氧化醇最核心的试剂叫**酸化重铬酸钾溶液（acidified potassium dichromate solution, `Cr₂O₇²⁻(aq)/H⁺(aq)`）**。小琳，只要它成功把别人氧化了，溶液颜色会发生什么标志性变化？
-- `[00:27]` 🙋‍♀️ **小琳**：橙色的重铬酸根离子 `Cr₂O₇²⁻` 会被还原成绿色的三价铬离子 `Cr³⁺`，所以溶液会**由橙色变为绿色（from orange to green）**！那如果用更猛的酸化高锰酸钾溶液（acidified potassium permanganate, `MnO₄⁻/H⁺`）呢？
-- `[00:42]` 👨‍🏫 **陈老师**：酸化高锰酸钾反应时是**由紫色变为无色（from purple to colourless）**，但它的脾气太暴躁了——只要碰到伯醇，不管你怎么控制，它都会一口气直接氧化到底变成羧酸，**绝对不能用来制备醛**！所以需要精准控场的时候，我们一律首选温和可控的酸化重铬酸钾。你看表格里的三级醇：**伯醇（primary alcohol, 1° 醇）**走两步，先变醛（aldehyde）再变羧酸（carboxylic acid）；**仲醇（secondary alcohol, 2° 醇）**如丙-2-醇，回流加热氧化生成酮（ketone），酮就到头了，不能再继续氧化；唯独**叔醇（tertiary alcohol, 3° 醇）**，放进去加热一点动静都没有，溶液保持橙色！知道为什么叔醇这么铁石心肠吗？
-- `[01:30]` 🙋‍♀️ **小琳**：因为醇氧化的第一步是要从羟基 `-OH` 和连着羟基的那个碳原子上各拔掉 1 个氢原子凑成水，而叔醇连着 `-OH` 的那个碳被三个碳基团包得死死的，**上面连 1 个氢原子都没有**！
-#### 📌 【板书 2 · 装置图与氢键原理】回流（Reflux）vs 蒸馏（Distillation）装置红线与分子间作用力满分答法（`01:44` – `04:00`）
+- `[00:00]` **🎯 氧化双雄 · 重铬酸钾橙变绿 vs 高锰酸钾禁制醛**：欢迎来到第 4 讲，攻克全章头号高频点——**`oxidation of alcohols`**！看**第 1 张板书**顶部：橙色 **`acidified K₂Cr₂O₇(aq)`** 反应后 **`from orange to green`**，温和可控，是制 `aldehyde` 的唯一首选；而紫色 **`acidified KMnO₄(aq)`** 氧化性极猛，遇 `1° alcohol` 直接轰到底变 `carboxylic acid`，**严禁用于制醛**！
+- `[00:36]` **🧭 三级命运 · 1° 两段跳、2° 止步酮、3° 拒不氧化**：再看表格对比三级醇：**`1° alcohol`** 走两段跳——用 **`excess alcohol + distillation`** 停在 `aldehyde`，用 **`excess Cr₂O₇²⁻/H⁺ + heating under reflux`** 冲顶得 `carboxylic acid`；**`2° alcohol`** 回流得 **`ketone`**（`orange to green`）即封顶；唯独 **`3° alcohol`** 连 `—OH` 的碳上无 H，不反应且 **`remains orange`**！
+#### 📌 【板书 2 · 回流 vs 蒸馏双装置 (31.5D-2)】Heating under Reflux vs Distillation 装置红线与氢键沸点 3M 满分模板（`01:11` – `02:29`）
 
-- `[01:44]` 👨‍🏫 **陈老师**：一语中的！现在把目光移到**第 2 张板书**的精工原版装置对比图——这就像煎鸡蛋一样：想把伯醇（比如乙醇 ethanol，沸点 78 °C）做成全熟的**乙酸（ethanoic acid，沸点 118 °C）**，我们就用**左边这套回流加热装置（heating under reflux）**，加上**过量的酸化重铬酸钾**，蒸气一往上跑就被垂直冷凝管摁回锅里死磕到底；但如果我们只想停在半熟的“溏心蛋”——**乙醛（ethanal，沸点只有 20.2 °C）**，就必须换用**右边这套边反应边蒸馏装置（distillation）**，并且让**乙醇过量**！
-- `[02:23]` 🙋‍♀️ **小琳**：老师，如果考官在长题里问：*Explain in terms of intermolecular forces why distillation allows ethanal to be isolated before further oxidation*（从分子间作用力角度解释为什么蒸馏能把乙醛提前分离出来），我只答“因为乙醛沸点最低”能拿满分吗？
-- `[02:41]` 👨‍🏫 **陈老师**：只答沸点低会直接丢掉最关键的结构分！必须把分子间作用力点透：**乙醛（ethanal）分子里没有 `-OH` 基团，分子间只有微弱的范德华力（weak van der Waals' forces），不能形成分子间氢键（cannot form intermolecular hydrogen bonds）；而乙醇和乙酸分子间都有强大的分子间氢键**！因此乙醛沸点最低，只要把加热温度控制在高于乙醛沸点、低于乙醇沸点，乙醛刚一生成就会立刻气化蒸出反应体系，脱离氧化剂逃进冰水浴接收瓶里！
-- `[03:15]` 🙋‍♀️ **小琳**：太清晰了！我还在图上看到了三个红色警示标：① 左边回流冷凝管**顶部绝对不能塞塞子（NEVER stopper the top）**；② 冷凝水必须**下口进、上口出（water in at the bottom, water out at the top）**；③ 烧瓶底要放几粒**防暴沸颗粒（anti-bumping granules）**！
-- `[03:36]` 👨‍🏫 **陈老师**：对！这三个实验细节几乎年年轮流考：顶部一旦加塞变成密闭系统，受热气压飙升会炸裂仪器（pressure build-up / explosion）；下口进水是为了抵抗重力让整个冷凝管水夹套充满冷水（completely filled with cold water），冷凝效率最高；防暴沸颗粒则是防止液体局部过热暴沸喷溅。
-#### 📌 【板书 3 · [O] 配平特训与生活化学】氧化方程式原子守恒配平（切勿漏写 2[O] 与 + H₂O！）及生活应用（`04:00` – `05:44`）
+- `[01:11]` **🔬 装置图解 · 回流敞口下进上出 vs 蒸馏支管口控温**：切换到**第 2 张板书**双装置图！左图 **`heating under reflux`** 死守三条安全线：① 冷凝管**顶端严禁加塞（Top OPEN 防气压爆炸）**；② 冷却水**下进上出**灌满水夹套；③ 烧瓶底加 **`anti-bumping granules`**。右图 **`distillation`** 温度计水银球对齐**支管口（side-arm level）**，接收瓶浸 `ice-water bath` 收集 `ethanal`！
+- `[01:53]` **📝 氢键论述 · 3 分答满为何蒸馏能分离出 Ethanal**：背熟底部 **3 分分子间作用力模板**：[1M] `Ethanal (CH₃CHO)` 无 `—OH`，仅靠弱 **`van der Waals' forces`**（无 **`intermolecular hydrogen bonds`**），而 `ethanol (78 °C)` 与 `ethanoic acid (118 °C)` 具强氢键；[1M] 故 `ethanal` **`boiling point` 最低（`20.2 °C`）**；[1M] 蒸馏时一生成即刻蒸离氧化液防再氧化！
+#### 📌 【板书 3 · [O] 配平与生活应用 (31.5D-3)】[O] 氧化方程式防漏特训（必写 2[O] 与 + H₂O！）及 Breathalyzer / 酒变酸（`02:30` – `03:46`）
 
-- `[04:00]` 🙋‍♀️ **小琳**：陈老师，我看**第 3 张板书**写氧化方程式的时候，用方括号 `[O]` 代表来自氧化剂的氧原子。但我有个地方以前老写错：乙醇 `CH₃CH₂OH` 变成乙酸 `CH₃COOH`，看上去不就是多了 1 个氧吗？为什么方程式左边非要写 `2[O]`，右边还要加 `H₂O` 呢？
-- `[04:19]` 👨‍🏫 **陈老师**：你问出了十个同学有五个会丢分的配平盲区！来，我们对着板书数氢原子：左边的乙醇 `CH₃CH₂OH` 一共有 `3 + 2 + 1 = 6` 个氢原子；而右边的乙酸 `CH₃COOH` 只有 `3 + 1 = 4` 个氢原子！少掉的那 2 个氢去哪儿了？第一个 `[O]` 把那 2 个氢抓走生成了 `1` 分子水 `H₂O`（这时候乙醇先变成了乙醛 `CH₃CHO`）；紧接着第二个 `[O]` 再插进乙醛里变成乙酸 `CH₃COOH`！所以两步合起来，左边必须消耗 **`2[O]`**，右边必须写上 **`+ H₂O`**！以后写完随手数一眼左右氢原子和氧原子总数，永远一分不丢！
-- `[04:59]` 🙋‍♀️ **小琳**：原来第一个 `[O]` 负责拔氢造水，第二个 `[O]` 负责插氧成酸！这样拆成两步想，再也不可能漏掉 `2[O]` 和 `H₂O` 了！
-- `[05:09]` 👨‍🏫 **陈老师**：最后顺带看一眼板书底下的两个生活小常识：① 警察查酒驾的传统化学式**呼气酒精测试仪（breathalyzer）**，里面装的就是橙色的酸化重铬酸钾晶体，遇到呼出的乙醇蒸气就由橙变绿；② 红酒或啤酒开瓶放久了变酸（souring of wine），是因为空气里的**微生物或细菌（microbes / bacteria）**催化空气中的氧气，把乙醇缓慢氧化成了带酸味的乙酸。好啦，醇氧化生成的醛、酮和羧酸已经登场，下一讲我们就看看它们又有哪些看家本领！
+- `[02:30]` **⚠️ 配平重灾 · 伯醇变酸必写 + 2[O] 与 + H₂O！**：切到**第 3 张板书**消灭头号配平重灾区！千万别把乙醇变乙酸错写成 *`CH₃CH₂OH + [O] ⟶ CH₃COOH`*（氢原子根本不守恒，直接判 0 分！）。看两步相加：第 1 颗 `[O]` 拔 2H 造 `H₂O` 得乙醛，第 2 颗 `[O]` 插氧变乙酸——完全氧化**左边必写 `+ 2[O]`，右边必写 `+ H₂O`**，写完必核对原子总数！
+- `[03:13]` **🌍 生活化学 · Breathalyzer 查酒驾与葡萄酒敞口变酸**：收下底部两大生活考点：① 查酒驾的化学式 **`breathalyzer`** 内含橙色 `acidified K₂Cr₂O₇`，遇呼出的 `ethanol` 蒸气即 **`turns from orange to green`**；② 红酒敞口变酸（**`souring of wine`**）是空气中的 **`microbes / bacteria`** 催化空气中 `O₂` 将 `ethanol` 氧化为 **`ethanoic acid`**！
 
 ### 预习自检快问快答
 
-**Q1. 将乙醇（沸点 78 °C）氧化制备乙醛（沸点 20.2 °C）时，为什么蒸馏装置能防止乙醛继续被氧化为乙酸？**
-- A. 乙醛分子间不能形成氢键（no intermolecular H-bonds），沸点远低于乙醇和乙酸，一生成即蒸出脱离氧化剂
-- B. 乙醛分子质量最大，留在烧瓶底部不与氧化剂接触
-- C. 酸化高锰酸钾溶液在蒸馏时失去氧化性
-- **答案：A** — 乙醛无 -OH，分子间仅靠弱范德华力结合（无分子间氢键），沸点最低，在蒸馏装置中一生成便立即气化蒸出。
+**Q1. 将 propan-1-ol 完全氧化为 propanoic acid 的正确化学方程式（以 [O] 代表来自氧化剂的氧）是哪一条？**
+- A. CH₃CH₂CH₂OH + [O] ⟶ CH₃CH₂COOH
+- B. CH₃CH₂CH₂OH + [O] ⟶ CH₃CH₂COOH + H₂
+- C. CH₃CH₂CH₂OH + 2[O] ⟶ CH₃CH₂COOH + H₂O
+- D. CH₃CH₂CH₂OH + 3[O] ⟶ CH₃CH₂COOH + 2H₂O
+- **答案：C** — 伯醇完全氧化为羧酸经历两步：第一步拔 2H 与 1 个 [O] 生成醛和 H₂O，第二步醛再加 1 个 [O] 生成羧酸。总方程式必须配 2[O] 且右边写出副产物 + H₂O（左 8H, 3O = 右 8H, 3O）。
 
-**Q2. 下列哪一个是乙醇完全氧化生成乙酸的正确配平方程式？**
-- A. CH₃CH₂OH + [O] ⟶ CH₃COOH
-- B. CH₃CH₂OH + 2[O] ⟶ CH₃COOH + H₂O
-- C. CH₃CH₂OH + [O] ⟶ CH₃COOH + H₂
-- **答案：B** — 核对原子守恒：左边 C₂H₆O + 2[O]（6H, 3O），右边 CH₃COOH + H₂O（6H, 3O），必须消耗 2[O] 并生成 1 分子 H₂O！
+**Q2. 为什么实验室制备 ethanal 时，不能用酸化高锰酸钾溶液（acidified KMnO₄(aq)）代替酸化重铬酸钾溶液，即使采用蒸馏（distillation）装置也不行？**
+- A. 酸化 KMnO₄(aq) 完全不能与乙醇发生反应
+- B. 酸化 KMnO₄(aq) 氧化性极强（very strong oxidizing agent），会将乙醇迅速直接氧化到底生成乙酸（ethanoic acid），无法停留在醛阶段
+- C. 酸化 KMnO₄(aq) 只会将乙醇脱水变成乙烯
+- D. 酸化 KMnO₄(aq) 没有颜色变化
+- **答案：B** — Acidified KMnO₄(aq) 是氧化性极猛烈的强氧化剂，遇到伯醇（1° alcohol）会迅速一路氧化到底生成羧酸（carboxylic acid），无法通过控制条件停留在 aldehyde 阶段；制备醛只能选用较温和可控的 acidified K₂Cr₂O₇(aq)。
+
 
 ---
 
-## 第 5 讲（31.6 – 31.7）：醛、酮的鉴别还原与羧酸的四大核心反应
-*Reactions of Aldehydes, Ketones & Carboxylic Acids: Selective Reduction, Esterification & Amides*  
-**分节音频**：`audio/05_31.6-31.7_醛酮还原与羧酸四大反应.mp3`（时长 `05:46`）
+## 第 5 讲（31.6 – 31.7）：醛酮鉴别、NaBH₄ vs LiAlH₄ 选择性还原与羧酸四大反应
+*Aldehydes & Ketones, Selective Reduction (NaBH₄ vs LiAlH₄) & Reactions of Carboxylic Acids*  
+**分节音频**：`audio/05_31.6-31.7_醛酮选择性还原与羧酸四大反应.mp3`（时长 `04:00`）
 
-- **预习目标**：掌握温热酸化重铬酸钾鉴别醛与酮，彻底分清温和还原剂 NaBH₄(aq) 与强还原剂 LiAlH₄（分两步无水操作）的选择性差异，背熟羧酸的 NaHCO₃ 冒泡鉴别、可逆酯化反应（⇌）及经酰氯两步制酰胺。
-- **本讲核心双语词汇**：**sodium borohydride (NaBH₄)**（硼氢化钠（温和还原剂，只还原醛/酮）） ｜ **lithium aluminium hydride (LiAlH₄)**（氢化铝锂（强还原剂，需 dry ether）） ｜ **sodium hydrogencarbonate (NaHCO₃)**（碳酸氢钠（检验 -COOH 冒 CO₂）） ｜ **esterification (⇌)**（酯化反应（必须画可逆号 ⇌）） ｜ **acyl chloride (RCOCl)**（酰氯（羧酸制酰胺的高活性跳板））
+- **预习目标**：掌握用温热酸化重铬酸钾鉴别醛酮，练熟温和 NaBH₄(aq) 与分两步书写的 1. LiAlH₄, dry ether / 2. H⁺(aq) 多官能团选择性还原手术，拿下羧酸的 NaHCO₃ 专属鉴别、可逆酯化（⇌）及经酰氯两步制酰胺路线。
+- **本讲核心双语词汇**：**NaBH₄(aq)**（硼氢化钠水溶液（温和，仅还原醛/酮）） ｜ **1. LiAlH₄, dry ether / 2. H⁺(aq)**（氢化铝锂（极恐水，必分两步写！）） ｜ **NaHCO₃(aq)**（碳酸氢钠溶液（专属检 —COOH 冒 CO₂）） ｜ **esterification (⇌)**（酯化反应（可逆！浓硫酸催化+脱水）） ｜ **acyl chloride (RCOCl)**（酰氯（活泼中间体，遇 NH₃ 制酰胺）） ｜ **ammonium carboxylate**（羧酸铵盐（酸直接加氨的室温陷阱））
 
-### 师生互动讲授逐字稿
+### 课堂主讲逐字稿
 
-#### 📌 【板书 1 · 醛酮鉴别与还原两兄弟 (31.6)】醛酮鉴别  |  温和水性“小绵羊” NaBH₄(aq) vs 狂暴恐水“霸王龙” LiAlH₄（`00:00` – `02:47`）
+#### 📌 【板书 1 · 醛酮鉴别与选择性还原 (31.6)】Aldehyde vs Ketone 鉴别及还原双雄 NaBH₄(aq) vs LiAlH₄ 选择性矩阵（`00:00` – `01:21`）
 
-- `[00:00]` 👨‍🏫 **陈老师**：欢迎来到第 5 讲！上一讲我们把伯醇和仲醇氧化成了**醛（aldehydes, `RCHO`）**、**酮（ketones, `RCOR'`）**和**羧酸（carboxylic acids, `RCOOH`）**。先看**第 1 张板书**：如果桌上有两瓶未知液体，一瓶是丙醛（propanal），一瓶是丙酮（propanone），在 HKDSE 标准考卷里，用什么试剂一步就能把它们区分开？
-- `[00:23]` 🙋‍♀️ **小琳**：用上一讲刚学的**酸化重铬酸钾溶液（acidified potassium dichromate solution）共热**！丙醛还能继续被氧化成丙酸，让溶液**由橙色变绿色（from orange to green）**；而丙酮已经氧化不动了，溶液保持橙色！
-- `[00:40]` 👨‍🏫 **陈老师**：稳准狠！那反过来，如果我们想把醛和酮倒车退回醇，这就是**还原反应（reduction）**，方程式里用方括号 `[H]` 代表来自还原剂的氢原子：醛加 `2[H]` 退回伯醇，酮加 `2[H]` 退回仲醇。请盯紧板书表格里的**还原剂两兄弟**——它们脾气天差地别！弟弟叫**硼氢化钠水溶液（aqueous sodium borohydride, `NaBH₄(aq)`）**，是个温和的“小绵羊”，不怕水，直接在烧杯水溶液里就能把醛和酮还原成醇；但它力气小，遇到顽固的羧酸（`-COOH`）和酯（`-COOR'`）完全推不动！
-- `[01:16]` 🙋‍♀️ **小琳**：那表格下面那位哥哥——**氢化铝锂（lithium aluminium hydride, `LiAlH₄`）**就是力大无穷的“霸王龙”了吧？我看它连羧酸和酯都能还原成醇！不过老师，为什么它的反应条件必须标上序号写成 `1. LiAlH₄, dry ether`，换行再写 `2. H⁺(aq)`，不能写在一块儿呢？
-- `[01:40]` 👨‍🏫 **陈老师**：这可是阅卷场的“生死红线”！因为氢化铝锂 `LiAlH₄` 极其恐水，一旦直接碰到水或酸就会剧烈反应甚至起火爆炸！所以**第一步必须关在绝对干燥的无水乙醚（`dry ether`）**里完成还原，等反应结束了，**第二步再加稀酸（`H⁺(aq)`）**把生成的醇释放出来。谁要是在考卷上不标 `1` 和 `2` 直接混写在一起，哪怕产物画对了，试剂分也会直接扣光！
-- `[02:07]` 🙋‍♀️ **小琳**：哇，我马上拿荧光笔圈起来！而且我看板书底下的双官能团例子超妙：如果一个分子一头是酮羰基、一头是羧基（比如 `CH₃COCH₂COOH`），加 `NaBH₄(aq)` 就只还原酮、保留羧基不变；加 `LiAlH₄` 就把两头全都还原成醇！顺便确认一下，它俩都不会碰碳碳双键 `C=C` 对吧？
-- `[02:29]` 👨‍🏫 **陈老师**：一百分！碳碳双键 `C=C` 只认催化加氢（`H₂ / Pt`），`NaBH₄` 和 `LiAlH₄` 都专门盯着含氧极性重键看，绝不碰 `C=C`！顺便记准羧酸被 `LiAlH₄` 还原成伯醇的配平：`RCOOH + 4[H] ⟶ RCH₂OH + H₂O`，消耗 `4` 个 `[H]` 并生成 `1` 分子水。
-#### 📌 【板书 2 · 羧酸弱酸性与王牌鉴别 (31.7)】为什么鉴别醇（R—OH）与羧酸（R—COOH）必须认准 NaHCO₃(aq) / Na₂CO₃(aq)？（`02:48` – `03:41`）
+- `[00:00]` **🎯 醛酮对决 · 重铬酸钾鉴别与还原两兄弟**：欢迎来到第 5 讲！区分 `aldehyde` 与 `ketone` 直接共热 **`acidified K₂Cr₂O₇(aq)`**：醛变酸使溶液 **`orange to green`**，酮不反应 **`remains orange`**！加 `2[H]` 退回醇叫 **`reduction`**：温和的 **`NaBH₄(aq)`** 可在水中只还原醛酮；狂暴的 **`LiAlH₄`** 极恐水，通杀醛、酮、酸、酯！
+- `[00:35]` **🔬 外科手术 · 多官能团选择性还原与混写零分线**：牢记阅卷零分线：用 `LiAlH₄` 必须标序号分两步写 **`1. LiAlH₄, dry ether`**、**`2. H⁺(aq)`**，混写一行直接判 0 分！看双官能团 `OHC—CH₂—COOCH₃`：加 `NaBH₄(aq)` 只还原醛基留酯基；加两步 `LiAlH₄` 则醛与酯全变醇！注意两兄弟都**绝不碰非极性 `C=C`**（双键只认 `H₂/Pt`）！
+#### 📌 【板书 2 · 羧酸鉴别与可逆酯化 (31.7A–B)】Carboxylic Acids 专属鉴别 NaHCO₃(aq) 与可逆 Esterification（⇌）全考点（`01:21` – `02:37`）
 
-- `[02:48]` 🙋‍♀️ **小琳**：好清晰！接下来看**第 2 张板书**的羧酸（carboxylic acids, `-COOH`）。陈老师，如果有两瓶没贴标签的无水液体，分别是丙-1-醇（propan-1-ol）和丙酸（propanoic acid），我能不能加固体 `PCl₅` 看谁冒白雾来区分它们呀？
-- `[03:04]` 👨‍🏫 **陈老师**：小心掉坑！你仔细看羧基 `-COOH` 的结构——它尾巴上是不是也挂着一个 `-OH`？所以不论是醇还是羧酸，遇到金属钠 `Na` 都会冒氢气气泡，遇到固体 `PCl₅` 都会冒氯化氢白雾，根本分不开！想一招把羧酸抓出来，必须利用它独有的**弱酸性（weak acid）**：加入**碳酸氢钠溶液（`NaHCO₃(aq)`）或碳酸钠溶液（`Na₂CO₃(aq)`）**！只有羧酸会反应放出**无色二氧化碳气泡（colourless gas bubbles / effervescence）**，而中性的醇、酯、醛、酮全都毫无动静！
-#### 📌 【板书 3 · 酯化反应与两步制酰胺】可逆酯化反应（Esterification ⇌） & 经酰氯（Acyl Chloride）室温两步制酰胺（`03:42` – `05:45`）
+- `[01:21]` **⚠️ 羧酸鉴别 · 千万别用 Na 或 PCl₅ 区分无水醇酸！**：切到**第 2 张板书**左框看弱酸 **`carboxylic acids`**！高频陷阱：区分无水 `propan-1-ol` 与 `propanoic acid` **严禁选 `Na(s)` 或 `PCl₅(s)`**，因 `—COOH` 也含 `—OH`，两者都会冒 `H₂` 或 `steamy fumes`！唯一专属绝招是加 **`NaHCO₃(aq)`**，仅酸冒 **`colourless gas bubbles (CO₂)`**！
+- `[02:02]` **🌸 可逆酯化 · 浓硫酸双角色与倒入碳酸钠三现象**：看右框 **`esterification`**：箭头必画可逆号 **`⇌`** 且写 `+ H₂O`（丙酸加甲醇得 `methyl propanoate`）。`conc. H₂SO₄` 具双重角色：① **`catalyst`** 加速；② **`dehydrating agent`** 吸水使平衡右移增产！倒入 `Na₂CO₃(aq)` 见三现象：`sweet fruity smell`、浮出 `colourless oily layer` 及 `gas bubbles`！
+#### 📌 【板书 3 · 强还原与两步制酰胺 (31.7C–D)】RCOOH + 4[H] 强还原与转化为 Unsubstituted Amide 黄金两步法（`02:37` – `04:00`）
 
-- `[03:42]` 🙋‍♀️ **小琳**：对哦！羧基里也藏着一个 `-OH`，只有小苏打 `NaHCO₃` 只认酸不认醇！再看**第 3 张板书**上半部分的**酯化反应（esterification）**：羧酸和醇在浓硫酸（`conc. H₂SO₄`）回流加热下生成酯和水——老师特意标了必须画**可逆箭头 `⇌`**！
-- `[04:00]` 👨‍🏫 **陈老师**：没错！酯化反应是经典的可逆反应（reversible reaction），写成单向箭头直接扣分，右边的 `+ H₂O` 也千万别漏！这里有三个必背得分点：第一，**浓硫酸有两个作用**——既做**催化剂（catalyst）**加快反应速率，又做**吸水剂（dehydrating agent）**抽走生成的水，推动可逆平衡向右移动以提高酯的产率；第二，反应完把混合液倒进碳酸钠溶液里，不仅能中和残酸冒泡，还能闻到**甜美果香味（sweet fruity smell）**，并看到水面上浮出一层**不溶于水的无色油状液体（insoluble colourless oily layer）**；第三，命名别写反——丙酸（propanoic acid）加甲醇（methanol），来自醇的甲基 `methyl` 在前，来自酸的丙酸根 `propanoate` 在后，合起来叫 **methyl propanoate（丙酸甲酯）**！
-- `[04:51]` 🙋‍♀️ **小琳**：醇变 alkyl 在前，酸变 alkanoate 在后，记死啦！那板书下半部分把羧酸变成**未取代酰胺（unsubstituted amide, `RCONH₂`）**，既然羧酸是酸、氨水 `NH₃(aq)` 是碱，为什么不直接把羧酸和氨水混在一起一步做成酰胺呢？
-- `[05:08]` 👨‍🏫 **陈老师**：你正好点破了原因：正因为一个是酸、一个是碱，室温下一混合，它们直接发生最简单的酸碱中和，生成离子盐——**羧酸铵（ammonium carboxylate, `RCOO⁻NH₄⁺`）**就停住了！要想在室温下高效合成酰胺，必须走**黄金两步法**：第一步先加氯化亚砜 `SOCl₂` 或五氯化磷 `PCl₅`，把迟钝的 `-COOH` 变成超级活泼的**酰氯（acyl chloride, `RCOCl`）**；第二步再通入氨气或浓氨水 `NH₃`，瞬间就能生成未取代酰胺 `RCONH₂`！好啦，最后一讲第 6 讲，我们就用一把“酸碱剪刀”把酯和酰胺剪开，完成整个 Unit 31 的大满贯闭环！
+- `[02:37]` **⚡ 强力倒车 · 羧酸加 4[H] 强还原退回伯醇**：进入**第 3 张板书**上半部分：将 `R—COOH` 还原回 `1° alcohol` 绝不能用 `NaBH₄(aq)`，只能用分两步写的 **`1. LiAlH₄, dry ether / 2. H⁺(aq)`**！配平注意脱去 1 颗氧成水并补 2 颗氢到碳上，左边**必写 `+ 4[H]`，右边必写 `+ H₂O`**（`RCOOH + 4[H] ⟶ RCH₂OH + H₂O`）！
+- `[03:18]` **🏆 黄金两步 · 经酰氯 SOCl₂ ➔ RCOCl ➔ NH₃ 制酰胺**：再看下半部分合成压轴陷阱：把 `RCOOH` 转化为 **`unsubstituted amide (RCONH₂)`**，**严禁室温直接加 `NH₃(aq)`**（只发生中和生成离子盐 **`ammonium carboxylate, RCOO⁻NH₄⁺`**）！必走黄金两步法：**Step 1** 加 **`SOCl₂`** 得活泼酰氯 **`RCOCl`**，**Step 2** 加过量 **`NH₃`** 即得酰胺！
 
 ### 预习自检快问快答
 
-**Q1. 化合物 OHC—CH₂—COOH（同时含醛基 -CHO 与羧基 -COOH）与 NaBH₄(aq) 完全反应后，有机产物是什么？**
-- A. HOCH₂—CH₂—COOH（只还原醛基，羧基不变）
-- B. HOCH₂—CH₂—CH₂OH（醛基与羧基全部被还原）
-- C. HOOC—CH₂—COOH
-- **答案：A** — NaBH₄(aq) 是温和还原剂，只能将醛基 -CHO 还原为 -CH₂OH，不能还原羧基 -COOH（若用 1. LiAlH₄, dry ether / 2. H⁺(aq) 则选 B）。
+**Q1. 化合物 K 的结构为 OHC—CH₂—CH₂—COOCH₃。当 K 与足量 NaBH₄(aq) 完全反应时，所得有机产物的结构简式是什么？**
+- A. HOCH₂CH₂CH₂CH₂OH 与 CH₃OH
+- B. HOCH₂CH₂CH₂COOCH₃
+- C. HOOCCH₂CH₂COOCH₃
+- D. OHCCH₂CH₂CH₂OH
+- **答案：B** — NaBH₄(aq) 是温和的选择性还原剂，只能还原分子左端的醛基（aldehyde, —CHO）为伯醇羟基（—CH₂OH），而绝不能还原右端的酯基（ester, —COOCH₃），故产物为 HOCH₂CH₂CH₂COOCH₃（若换用两步 LiAlH₄ 则得 A）。
 
-**Q2. 一步鉴别无水丙-1-醇（propan-1-ol）与无水丙酸（propanoic acid）应选用下列哪种试剂？**
-- A. 固体五氯化磷 PCl₅(s)
-- B. 金属钠 Na(s)
-- C. 碳酸氢钠水溶液 NaHCO₃(aq)
-- **答案：C** — 醇与羧酸均含 -OH，遇到 PCl₅(s) 和 Na(s) 都会反应；只有 NaHCO₃(aq) 仅与弱酸性的丙酸反应放出无色气泡 CO₂(g)。
+**Q2. 在实验室中将丁酸（butanoic acid, CH₃CH₂CH₂COOH）高效转化为丁酰胺（butanamide, CH₃CH₂CH₂CONH₂），正确的试剂与步骤是什么？**
+- A. 在室温下直接加入过量稀氨水 NH₃(aq)
+- B. 加入 NaNO₂ 与稀盐酸
+- C. 第一步加入 SOCl₂（生成 CH₃CH₂CH₂COCl），第二步加入过量 NH₃
+- D. 第一步加入 NaOH(aq)，第二步加入 NH₄Cl
+- **答案：C** — 室温下将羧酸直接与 NH₃(aq) 混合只发生酸碱中和生成离子盐 CH₃CH₂CH₂COO⁻NH₄⁺！正确两步法：Step 1 加 SOCl₂（或 PCl₅）转化为活泼酰氯 butanoyl chloride (CH₃CH₂CH₂COCl)，Step 2 加 NH₃ 即生成 butanamide。
+
 
 ---
 
-## 第 6 讲（31.8 – 31.9）：酯与未取代酰胺的水解反应（酸碱介质产物铁律与全局贯通）
-*Hydrolysis of Esters & Unsubstituted Amides: Acid vs Alkaline Rules & Unit 31 Synthesis Map*  
-**分节音频**：`audio/06_31.8-31.9_酯与未取代酰胺的酸碱水解.mp3`（时长 `05:50`）
+## 第 6 讲（31.8 – 31.9）：酯与未取代酰胺的酸碱水解铁律及全章官能团定性鉴别总表
+*Acid & Alkaline Hydrolysis of Esters and Unsubstituted Amides & Master Chemical Tests*  
+**分节音频**：`audio/06_31.8-31.9_酯与酰胺酸碱水解及鉴别总表.mp3`（时长 `04:14`）
 
-- **预习目标**：吃透酯（esters）与未取代酰胺（unsubstituted amides）在酸性和碱性回流下的水解方程式与可逆性差异，死死锁住“酸中无氨气、碱中无游离酸、醇见 NaOH 不变盐”终极铁律，并贯通 Unit 31 全局转化网。
-- **本讲核心双语词汇**：**acid hydrolysis (⇌ for ester)**（酸性水解（酯可逆，酰胺不可逆）） ｜ **alkaline hydrolysis / saponification**（碱性水解 / 皂化反应（不可逆 ⟶）） ｜ **carboxylate salt (RCOO⁻Na⁺)**（羧酸盐（碱水解直接产物）） ｜ **unsubstituted amide (RCONH₂)**（未取代酰胺（碱水解加热放 NH₃）） ｜ **moist red litmus paper turns blue**（湿润红色石蕊试纸变蓝（检 NH₃））
+- **预习目标**：看懂酯 C—O 断键 SVG 图，彻底区分酯的可逆酸水解（⇌）与不可逆碱水解皂化（⟶ RCOO⁻Na⁺ + R'OH，牢记醇遇 NaOH 绝不变盐！），锁死酰胺水解“酸无氨、碱无酸”铁律与湿润红石蕊试纸检验，通关全章定性鉴别矩阵。
+- **本讲核心双语词汇**：**acid hydrolysis**（酸性水解（酯可逆 ⇌；酰胺不可逆 ⟶）） ｜ **saponification**（皂化反应（酯的不可逆碱性水解 ⟶）） ｜ **carboxylate salt (RCOO⁻Na⁺)**（羧酸盐（碱水解产物，酸化再生酸）） ｜ **unsubstituted amide (RCONH₂)**（未取代酰胺（酸生 NH₄⁺，碱放 NH₃）） ｜ **moist red litmus paper**（湿润红色石蕊试纸（遇 NH₃ 变蓝）） ｜ **qualitative chemical tests**（有机官能团定性鉴别测试）
 
-### 师生互动讲授逐字稿
+### 课堂主讲逐字稿
 
-#### 📌 【板书 1 · 酯的酸碱水解对比 (31.8)】酯的水解（Hydrolysis of Esters）：可逆酸水解（⇌） vs 不可逆皂化反应（⟶）（`00:00` – `02:22`）
+#### 📌 【板书 1 · 酯的酸碱水解 (31.8)】Esters 酸碱水解对决：可逆性、产率高低与“醇见 NaOH 不变盐”红线（`00:00` – `01:30`）
 
-- `[00:00]` 👨‍🏫 **陈老师**：欢迎来到收官之战——第 6 讲！上一讲我们把羧酸拼成了酯（esters）和未取代酰胺（unsubstituted amides）；这一讲我们要拿起化学剪刀，通过**水解反应（hydrolysis）**把它们重新剪开！这可是考评局阅卷报告年年点名批评的重灾区，但今天只要记住一句口诀，你就能做到百分之百零失误！先看**第 1 张板书**：把乙酸乙酯（ethyl ethanoate, `CH₃COOCH₂CH₃`）放进稀硫酸里回流加热，和放进氢氧化钠溶液里回流加热，有什么本质区别？
-- `[00:34]` 🙋‍♀️ **小琳**：我看表格里，稀酸催化下的**酸性水解（acid hydrolysis）**正好是酯化反应的倒放，所以必须画**可逆箭头 `⇌`**，反应不能进行到底；而用 `NaOH(aq)` 的**碱性水解（alkaline hydrolysis）**——也叫**皂化反应（saponification）**——画的是**单向箭头 `⟶`**，产率更高！为什么碱性水解就能一竿子插到底呢？
-- `[00:58]` 👨‍🏫 **陈老师**：问到根子上了！在碱性水解里，`NaOH` 可不是催化剂，而是实打实的反应物：酯键一剪开，刚露头的乙酸立刻被 `OH⁻` 中和，变成了稳定的**羧酸盐——乙酸钠（sodium ethanoate, `CH₃COO⁻Na⁺`）**！乙酸根离子没法再跟乙醇倒回去合成酯，平衡被彻底锁死在右边，所以反应 100% 进行到底！小琳，这里有两个超级容易写错的坑：第一，在碱性水解方程式右边，能写游离的乙酸 `CH₃COOH` 吗？第二，拆出来的乙醇 `CH₃CH₂OH` 泡在过量的氢氧化钠里，会不会也变成乙醇钠 `CH₃CH₂O⁻Na⁺`？
-- `[01:35]` 🙋‍♀️ **小琳**：第一个肯定不能写游离酸，因为在烧碱汤里酸早就被中和成盐 `CH₃COO⁻Na⁺` 了！至于第二个……乙醇是中性的，第 3 讲刚学过只有活泼金属钠单质 `Na(s)` 才能把醇变成乙醇钠，氢氧化钠水溶液奈何不了醇羟基，所以乙醇一定保持 `CH₃CH₂OH` 原貌不变！
-- `[01:54]` 👨‍🏫 **陈老师**：给你的清醒鼓掌！如果题目接着问：皂化反应结束后，烧瓶里装的是羧酸钠盐，我怎么把纯净的游离羧酸 `RCOOH` 重新拿回来？只需要往冷却后的混合液里加入**过量的稀盐酸或稀硫酸（`excess dilute HCl(aq)` / `H₂SO₄(aq)`）**酸化——注意“过量 `excess`”这个词必不可少，因为要先中和掉剩下来的 `NaOH`，多余的氢离子 `H⁺` 才能把羧酸根重新变回游离羧酸！
-#### 📌 【板书 2 · 未取代酰胺的酸碱水解 (31.9)】未取代酰胺（RCONH₂）的水解：酸碱全不可逆（⟶）与氨气石蕊测试（`02:22` – `04:05`）
+- `[00:00]` **✂️ 酯键剪切 · 可逆酸水解 vs 不可逆碱水解皂化**：欢迎来到收官第 6 讲！看**第 1 张板书**沿酯基 `C—O` 单键剪开：左卡 **`acid hydrolysis`** 用稀酸作催化剂回流，属可逆反应（必画 **`⇌`**），反应不完全且产率偏低；右卡 **`alkaline hydrolysis (saponification)`** 用 `NaOH(aq)` 回流，酸成盐使逆反应断根，**单向到底（`⟶`）**，醇产率极高！
+- `[00:47]` **🚨 两条红线 · 酸化再生游离酸与“醇见 NaOH 绝不变盐”**：死守底部两条零分红线：① 酯在 `NaOH(aq)` 回流直接得离子态 **`carboxylate salt (RCOO⁻Na⁺)`**，须补加 **`excess dilute HCl(aq)`** 酸化方能再生游离酸；② **中性 `alcohol` 绝不与 `NaOH(aq)` 反应**，严禁写成醇钠盐！默念：**“碱中无游离酸，醇见 `NaOH` 绝不变盐！”**
+#### 📌 【板书 2 · 酰胺水解铁律 (31.9)】Unsubstituted Amides 酸碱不可逆水解：“酸中无氨气，碱中无游离酸”！（`01:31` – `03:01`）
 
-- `[02:22]` 🙋‍♀️ **小琳**：记住了，酸化必须加 excess！那再看**第 2 张板书**的**未取代酰胺（unsubstituted amides, `RCONH₂`）**水解：把中间的碳氮单键 `C—N` 剪开，原本拆出来的一边是酸性的羧酸 `RCOOH`，另一边是碱性的氨气 `NH₃`——哇，一边酸一边碱，岂不是不管泡在酸汤还是碱汤里，总有一边会被吃掉？
-- `[02:45]` 👨‍🏫 **陈老师**：你一下子就悟透了！正因如此，**未取代酰胺不管是酸性水解还是碱性水解，全都是不可逆反应（一律写单向箭头 `⟶`）**！你看：① 如果和过量稀盐酸回流（酸性水解），游离羧酸 `RCOOH` 安然无恙，但碱性的氨气一露头就被氢离子抓住变成了**铵离子 `NH₄⁺`（氯化铵 `NH₄Cl`）**留在水里，所以**没有任何气体冒出来**！② 如果和氢氧化钠溶液回流（碱性水解），酸性的羧酸变成**羧酸根离子 `RCOO⁻`**，而碱性的氨气在碱汤里畅通无阻，直接变成有刺激性气味的无色气体 **`NH₃(g)`** 冒出来！考场上怎么检验冒出来的氨气？
-- `[03:26]` 🙋‍♀️ **小琳**：用一张**湿润的红色石蕊试纸（moist red litmus paper）**放在管口，试纸会**由红变蓝（turns from red to blue）**！千万不能漏掉“湿润 moist”这个词！顺便问一下老师，铵盐（比如乙酸铵 `CH₃COO⁻NH₄⁺`）加 `NaOH` 也会放氨气，怎么区分乙酰胺和乙酸铵呀？
-- `[03:46]` 👨‍🏫 **陈老师**：看反应条件快慢！乙酸铵本身就有现成的铵离子 `NH₄⁺`，室温下滴入 `NaOH(aq)` 立刻就能放出氨气；而乙酰胺是共价分子，必须跟 `NaOH(aq)` **持续煮沸或回流加热（boiling / heating under reflux）**扯断碳氮共价键，才会放出氨气。
-#### 📌 【板书 3 · 终极口诀与 Unit 31 大满贯地图】水解题锁分口诀：“酸中无氨气，碱中无游离酸，醇见 NaOH 不变盐”（`04:06` – `05:50`）
+- `[01:31]` **⚖️ 酰胺铁律 · 酸中无氨气（NH₄⁺），碱中无游离酸（NH₃↑）**：切到**第 2 张板书**攻克 **`unsubstituted amides (RCONH₂)`** 水解！因酸碱中必有一方彻底成盐，酸水解与碱水解**全是单向不可逆（`⟶`）**！背熟铁律：**酸水解得 `RCOOH + NH₄⁺`（无气体！）；碱水解得 `RCOO⁻ + NH₃(g)`（冒刺激性氨气使 `moist red litmus paper` 变蓝！）**。
+- `[02:17]` **💡 高阶辨析 · 室温冷 NaOH 区分酰胺与铵盐及双官能团水解**：盯紧两大高分细节：① 写石蕊试纸验氨气**漏写 `moist`（湿润）直接扣分**！② 用 `NaOH(aq)` 区分固态共价 `CH₃CONH₂` 与离子盐 `CH₃COO⁻NH₄⁺` 时，秘诀是**室温不加热加冷 `NaOH(aq)`**——铵盐室温即刻放 `NH₃`，而共价酰胺室温无气体，必须**持续煮沸（`boil`）**才断 `C—N` 键放氨气！
+#### 📌 【板书 3 · 全章鉴别破案总表】HKDSE 全章官能团 Qualitative Chemical Tests 速查总表与三瓶液体破案法（`03:02` – `04:13`）
 
-- `[04:06]` 🙋‍♀️ **小琳**：太酷了！现在看**第 3 张板书**标题那句十七字锁分真言：**“酸中无氨气，碱中无游离酸，醇见 `NaOH` 不变盐！”** 我来拿个双官能团大魔王练练手：假如一个分子左边是酰胺基 `H₂NCO-`，右边是甲酯基 `-COOCH₃`，如果跟过量 `NaOH(aq)` 回流，两刀剪开后：中间的二元酸全变羧酸根负离子 `-COO⁻`，右边的甲醇保持 `CH₃OH` 不变盐，左边的氨基变成氨气 `NH₃(g)` 飞走——一秒钟全写对了！
-- `[04:36]` 👨‍🏫 **陈老师**：无懈可击！而且今天学的酯键水解和酰胺键水解，直接就铺平了后面 Unit 33 的道路——动植物油脂加 `NaOH` 皂化做肥皂（soaps），还有矿泉水瓶聚酯（PET）和尼龙（nylon）为什么怕强酸强碱腐蚀，底层全都是今天这一刀水解！最后让我们看着第 3 张板书上的**Unit 31 全景官能团转化地图**做个收束：烷烃经紫外光取代或烯烃经马氏规则加成抵达卤代烷；卤代烷碱性水解推开“中心枢纽”醇的大门；醇往左能脱水回烯烃，往右经蒸馏得醛、回流得羧酸，又能被 `NaBH₄` 或 `LiAlH₄` 还原回来；羧酸再往外延伸出可逆的酯和两步合成的酰胺！
-- `[05:22]` 🙋‍♀️ **小琳**：哇，原本零散的十几个化学反应，现在在我脑子里彻底连成一张活的地铁网了！谢谢陈老师，这下明天上化学课讲 Unit 31 我心里超有底！
-- `[05:35]` 👨‍🏫 **陈老师**：为你点赞！预习完不妨点一下每讲下方的两道快问快答热个身，上课时重点留意老师演示的实验颜色变化和仪器细节。Unit 31 预习通关，我们课堂实战见！
+- `[03:02]` **🗺️ 破案总表 · 七大官能团定性鉴别测试一网打尽**：进入**第 3 张板书**复盘全章定性鉴别总表：抓 `C=C` 用暗处 `Br₂` 看迅速褪色；抓 `R—X` 走 `NaOH` 回流、**`excess dilute HNO₃`**、`AgNO₃` 看三色沉淀；抓无水 `—OH` 用 `PCl₅(s)` 看 `steamy fumes`；分醛酮用温热 `acidified K₂Cr₂O₇(aq)` 看橙变绿；抓 `—COOH` 用 `NaHCO₃(aq)`；抓 `—CONH₂` 煮沸 `NaOH(aq)`！
+- `[03:36]` **🏁 通关收束 · 三瓶液体两步淘汰法与 Unit 32/33 预告**：最后掌握鉴别三瓶无水液体（乙酸、乙醇、乙酸乙酯）的**两步淘汰法**：**Step 1** 各加 `NaHCO₃(aq)` 挑出唯一冒泡的乙酸（另两瓶写明 `no observable change`）；**Step 2** 剩余两份温热 `acidified K₂Cr₂O₇(aq)`，变绿为乙醇，无变化为乙酸乙酯！恭喜通关 Unit 31，下一站 Unit 32 合成见！
 
 ### 预习自检快问快答
 
-**Q1. 将丙酸乙酯（CH₃CH₂COOCH₂CH₃）与过量 NaOH(aq) 回流加热直至完全反应，所得混合液中的有机产物是什么？**
-- A. 丙酸（CH₃CH₂COOH）与乙醇（CH₃CH₂OH）
-- B. 丙酸钠（CH₃CH₂COO⁻Na⁺）与乙醇（CH₃CH₂OH）
-- C. 丙酸钠（CH₃CH₂COO⁻Na⁺）与乙醇钠（CH₃CH₂O⁻Na⁺）
-- **答案：B** — 牢记铁律“碱中无游离酸，醇见 NaOH 不变盐”：羧酸部分变成丙酸钠盐 CH₃CH₂COO⁻Na⁺，醇部分保持中性乙醇 CH₃CH₂OH！
+**Q1. 将丙酸乙酯（ethyl propanoate, CH₃CH₂COOCH₂CH₃）与过量 NaOH(aq) 回流加热直至碱性水解完全，反应混合液中存在的两种含碳产物是什么？**
+- A. propanoic acid 与 ethanol
+- B. sodium propanoate (CH₃CH₂COO⁻Na⁺) 与 ethanol (CH₃CH₂OH)
+- C. sodium propanoate 与 sodium ethoxide (CH₃CH₂O⁻Na⁺)
+- D. ethanoic acid 与 propan-1-ol
+- **答案：B** — 牢记口诀“碱中无游离酸，醇见 NaOH 绝不变盐”！丙酸乙酯沿 C—O 断键后，丙酸部分在过量 NaOH(aq) 中完全中和为羧酸盐 sodium propanoate (CH₃CH₂COO⁻Na⁺)，而中性的乙醇不与 NaOH 反应，仍为 ethanol (CH₃CH₂OH)。
 
-**Q2. 乙酰胺（CH₃CONH₂）与过量稀盐酸 dilute HCl(aq) 回流加热完全水解时，产物是什么？**
-- A. CH₃COOH + NH₄Cl(aq)（无气体放出，反应不可逆）
-- B. CH₃COOH + NH₃(g)（放出刺激性氨气）
-- C. CH₃COO⁻Na⁺ + NH₄Cl(aq)
-- **答案：A** — 牢记“酸中无氨气”：在过量稀盐酸中，生成的碱性氨气立即质子化变成氯化铵 NH₄Cl(aq) 留在溶液中，无气体放出且反应进行到底！
-
----
+**Q2. 只用一种试剂即可在室温（无需加热）下快速区分固态乙酰胺（ethanamide, CH₃CONH₂）与固态乙酸铵（ammonium ethanoate, CH₃COO⁻NH₄⁺），正确的操作与现象是什么？**
+- A. 在室温下分别加入冷的 NaOH(aq)：CH₃COO⁻NH₄⁺ 立即放出使湿润红石蕊试纸变蓝的刺激性氨气，而 CH₃CONH₂ 室温无气体放出
+- B. 分别加入稀盐酸 HCl(aq)：两者均放出大量氨气
+- C. 分别加入酸化 K₂Cr₂O₇(aq)：CH₃CONH₂ 使溶液由橙变绿
+- D. 分别加入 AgNO₃(aq)：CH₃COO⁻NH₄⁺ 生成黄色沉淀
+- **答案：A** — CH₃COO⁻NH₄⁺ 是含 NH₄⁺ 的离子盐，室温下遇 OH⁻ 即发生离子反应 NH₄⁺ + OH⁻ ⟶ NH₃(g) + H₂O 立即放出氨气；而共价化合物 CH₃CONH₂ 在室温下与冷 NaOH(aq) 不放气体，必须持续煮沸回流才能打断 C—N 共价键放出 NH₃。
