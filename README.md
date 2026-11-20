@@ -13,7 +13,7 @@
 - **本单元 · Unit 31 各官能团的典型反应**：<https://kenlin666bot.github.io/unit31-audio-preview/>
 - **姊妹篇 · Unit 32 碳化合物的合成**：[本地打开](../Unit32_有声互动预习课/Unit32_有声互动预习课.html) ｜ [在线版](https://kenlin666bot.github.io/unit32-audio-preview/)
 - **姊妹篇 · Unit 33 重要的有机物质**：[本地打开](../Unit33_有声互动预习课/Unit33_有声互动预习课.html) ｜ [在线版](https://kenlin666bot.github.io/unit33-audio-preview/)
-- **配套 Topic 7 & Topic 8 闯关学习站**：[本地打开](../Mastering_Chemistry_Topic7_8_学习站.html) ｜ <https://kenlin666bot.github.io/mastering-organic-chem/>
+- **配套 Topic 7 & Topic 8 闯关学习站（直达 Unit 31 刷题）**：[本地打开](../Mastering_Chemistry_Topic7_8_学习站.html#u31) ｜ <https://kenlin666bot.github.io/mastering-organic-chem/#u31>
 
 ## ✨ 课程特色
 
